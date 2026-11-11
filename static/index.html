@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Wazobia Vote: unofficial voter information</title>
+  <link rel="icon" href="/static/wazobia-mark.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="/static/wazobia-mark.svg">
+  <link rel="stylesheet" href="/static/styles.css?v=7">
+</head>
+<body class="profile-voice">
+  <a class="skip" href="#question">Skip to the question</a>
+  <main>
+    <header class="intro">
+      <img src="/static/wazobia-logo.svg" alt="Wazobia Vote">
+      <h1>Voting questions, answered in your language.</h1>
+      <p>Free, unofficial guide based on public documents. Not INEC.</p>
+    </header>
+
+    <form id="ask-form" class="card">
+      <label for="question">Your question</label>
+      <textarea id="question" name="question" rows="4" required maxlength="500"></textarea>
+
+      <p class="topic-lead">Tap a question. The answer quotes the Electoral Act and shows the passage beside it.</p>
+      <div class="topics" role="group" aria-label="Topic shortcuts">
+        <button type="button" class="topic" data-ask="yes" data-question="Who may register to vote?">
+          <span class="topic-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><circle cx="12" cy="8" r="3" fill="none" stroke="currentColor" stroke-width="2"/><path d="M6 19c1-3 3.2-4.5 6-4.5S17 16 18 19" fill="none" stroke="currentColor" stroke-width="2"/></svg></span>
+          <span>Register to vote</span>
+        </button>
+        <button type="button" class="topic" data-ask="yes" data-question="How do I collect my PVC?">
+          <span class="topic-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><rect x="3" y="6" width="18" height="12" rx="2" fill="none" stroke="currentColor" stroke-width="2"/><circle cx="9" cy="12" r="2" fill="none" stroke="currentColor" stroke-width="2"/><path d="M13 11h5M13 14h4" stroke="currentColor" stroke-width="2"/></svg></span>
+          <span>Voter card (PVC)</span>
+        </button>
+        <button type="button" class="topic" data-ask="yes" data-question="What happens on election day?">
+          <span class="topic-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><rect x="4" y="5" width="16" height="15" rx="2" fill="none" stroke="currentColor" stroke-width="2"/><path d="M4 10h16M8 3v4M16 3v4" stroke="currentColor" stroke-width="2"/></svg></span>
+          <span>Election day</span>
+        </button>
+        <button type="button" class="topic" data-ask="yes" data-question="What help can a voter with a disability ask for?">
+          <span class="topic-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><circle cx="9" cy="7" r="2.2" fill="none" stroke="currentColor" stroke-width="2"/><path d="M4.5 19c.8-3.2 2.6-5 4.5-5s3.7 1.8 4.5 5" fill="none" stroke="currentColor" stroke-width="2"/><path d="M16 10h4M18 8v4" stroke="currentColor" stroke-width="2"/></svg></span>
+          <span>Help for voters with disabilities</span>
+        </button>
+      </div>
+
+      <div class="letter-pad" role="group" aria-label="Insert a Hausa or Igbo letter">
+        <button type="button" data-letter="ɓ">ɓ</button>
+        <button type="button" data-letter="ɗ">ɗ</button>
+        <button type="button" data-letter="ƙ">ƙ</button>
+        <button type="button" data-letter="ƴ">ƴ</button>
+        <button type="button" data-letter="Ɓ">Ɓ</button>
+        <button type="button" data-letter="Ɗ">Ɗ</button>
+        <button type="button" data-letter="Ƙ">Ƙ</button>
+        <button type="button" data-letter="Ƴ">Ƴ</button>
+        <button type="button" data-letter="ị">ị</button>
+        <button type="button" data-letter="ọ">ọ</button>
+        <button type="button" data-letter="ụ">ụ</button>
+        <button type="button" data-letter="ṅ">ṅ</button>
+        <button type="button" data-letter="Ị">Ị</button>
+        <button type="button" data-letter="Ọ">Ọ</button>
+        <button type="button" data-letter="Ụ">Ụ</button>
+        <button type="button" data-letter="Ṅ">Ṅ</button>
+      </div>
+      <p class="letter-sample" lang="und">ɓ ɗ ƙ ƴ Ɓ Ɗ Ƙ Ƴ ị ọ ụ ṅ Ị Ọ Ụ Ṅ</p>
+
+      <fieldset class="segment">
+        <legend>Language</legend>
+        <div class="choices">
+          <label>
+            <input type="radio" name="language" value="en" checked>
+            <span>English</span>
+            <span class="mark" aria-hidden="true">Selected</span>
+          </label>
+          <label>
+            <input type="radio" name="language" value="ha">
+            <span>Hausa</span>
+            <span class="mark" aria-hidden="true">Selected</span>
+          </label>
+          <label>
+            <input type="radio" name="language" value="ig">
+            <span>Igbo</span>
+            <span class="mark" aria-hidden="true">Selected</span>
+          </label>
+        </div>
+      </fieldset>
+
+      <fieldset class="profiles">
+        <legend>How to show the answer</legend>
+        <div class="choices">
+          <label class="profile-card">
+            <input type="radio" name="profile" value="voice" checked>
+            <span class="profile-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M4 10v4h4l5 4V6L8 10H4z" fill="none" stroke="currentColor" stroke-width="2"/><path d="M16 9a4 4 0 0 1 0 6" fill="none" stroke="currentColor" stroke-width="2"/></svg></span>
+            <span class="profile-name">Listen</span>
+            <span class="profile-line">The spoken answer stands on its own.</span>
+            <span class="mark" aria-hidden="true">Selected</span>
+          </label>
+          <label class="profile-card">
+            <input type="radio" name="profile" value="text_only">
+            <span class="profile-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M5 6h14M5 12h14M5 18h9" fill="none" stroke="currentColor" stroke-width="2"/></svg></span>
+            <span class="profile-name">Read</span>
+            <span class="profile-line">Everything you need is on the screen.</span>
+            <span class="mark" aria-hidden="true">Selected</span>
+          </label>
+          <label class="profile-card">
+            <input type="radio" name="profile" value="large_text">
+            <span class="profile-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M4 18L10 6h2l6 12M7 14h8" fill="none" stroke="currentColor" stroke-width="2"/></svg></span>
+            <span class="profile-name">Large text</span>
+            <span class="profile-line">Shorter text that stays clear when enlarged.</span>
+            <span class="mark" aria-hidden="true">Selected</span>
+          </label>
+          <label class="profile-card">
+            <input type="radio" name="profile" value="plain">
+            <span class="profile-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M8 7h11M8 12h11M8 17h11" fill="none" stroke="currentColor" stroke-width="2"/><circle cx="4.5" cy="7" r="1.2" fill="currentColor"/><circle cx="4.5" cy="12" r="1.2" fill="currentColor"/><circle cx="4.5" cy="17" r="1.2" fill="currentColor"/></svg></span>
+            <span class="profile-name">Step by step</span>
+            <span class="profile-line">One idea at a time, with an icon.</span>
+            <span class="mark" aria-hidden="true">Selected</span>
+          </label>
+        </div>
+      </fieldset>
+
+      <button type="submit" id="ask" class="ask">
+        <span class="ask-label">Ask</span>
+      </button>
+    </form>
+
+    <p id="status" class="notice" role="status" hidden></p>
+
+    <article id="result" class="card answer-card" hidden>
+      <p id="badge" class="badge"></p>
+      <button type="button" id="speak" class="speak">Listen</button>
+      <h2>Answer</h2>
+      <p id="display"></p>
+      <section id="evidence-block" hidden>
+        <h2>From the document</h2>
+        <div id="evidence"></div>
+      </section>
+      <section id="steps-block" hidden>
+        <h2>Steps</h2>
+        <ol id="steps"></ol>
+      </section>
+      <section id="sources-block">
+        <h2>Sources</h2>
+        <ul id="citations"></ul>
+        <p id="empty-sources" class="empty-sources" hidden>
+          <span class="badge-icon" aria-hidden="true"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="8" fill="none" stroke="currentColor" stroke-width="2"/><path d="M12 8v5M12 16h.01" stroke="currentColor" stroke-width="2"/></svg></span>
+          <span>No source was attached to this reply.</span>
+        </p>
+      </section>
+      <p id="review-note" class="review-note" hidden></p>
+      <div id="answer-actions" class="answer-actions" hidden>
+        <button type="button" id="copy-answer">Copy answer</button>
+        <button type="button" id="share-whatsapp">Share on WhatsApp</button>
+        <button type="button" id="report-answer">Report a wrong answer</button>
+      </div>
+    </article>
+    <section class="card words" aria-label="Words">
+      <h2>Words</h2>
+      <p><strong>INEC.</strong> The government body that runs elections in Nigeria.</p>
+      <p><strong>PVC.</strong> Your voter card. You need it to vote.</p>
+      <p><strong>CVR.</strong> The process of registering to vote or updating your details.</p>
+      <p>Hausa and Igbo wording for these names is waiting for a native speaker.</p>
+    </section>
+  </main>
+  <footer>
+    <p>Answers come only from the public documents loaded for this assistant. Deadline and polling-unit material counts as old after 30 days. Other material counts as old after 90 days. This guide cannot look up your name, your PVC, or your polling unit. Do not type a voter ID, a phone number, or an address.</p>
+  </footer>
+  <script src="/static/app.js?v=4"></script>
+</body>
+</html>

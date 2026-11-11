@@ -1,0 +1,3036 @@
+id: src-003
+title: Regulations and Guidelines for the Conduct of Elections, 2026
+url: https://inecnigeria.org/documents/guidelines/REGULATIONS-AND-GUIDELINES-FOR-2026.pdf
+last_verified:
+ocr: true
+scope: nigeria
+---
+
+--- page 1 ---
+INEC
+INDEPENDENT NATIONAL
+ELECTORAL COMMISSION
+Regulations and
+Guidelines for the
+Conduct of Elections,
+2026
+www.inecnigeria.org
+
+--- page 2 ---
+Foreword
+The Independent National Electoral Commission (herein referred to as the Commission),
+pursuant to Section 160(1) of the Constitution of the Federal Republic of Nigeria, 1999 (as
+amended) and Section 151 of the Electoral Act, 2026, hereby issues the Regulations and
+Guidelines for the Conduct of Elections, 2026. It replaces the Regulations and Guidelines for the
+Conduct of Elections, 2022, which was made under the repealed Electoral Act, 2022.
+The Commission is empowered under Paragraph 1 5, Third Schedule, Part l, of the Constitution to
+conduct elections into various political offices created by the Constitution.
+These Regulations and Guidelines reflect the Commission's commitment to transparent,
+credible, technology-driven and legally compliant electoral processes. They provide the
+operational framework for the conduct of elections and give practical effect to the provisions of the
+Electoral Act, 2026, while responding to lessons from previous elections and evolving
+developments in election administration.
+In developing these Regulations and Guidelines, the Commission undertook extensive
+consultations and considered judicial decisions, reports of election observers, and submissions
+from political parties, security agencies, civil society organisations, development partners and
+other stakeholders. The result is a more comprehensive and responsive regulatory framework
+aimed at deepening public confidence in the electoral process.
+A number of important innovations have been introduced to strengthen electoral integrity,
+transparency and accountability.
+Notably, the Regulations provide a clearer framework regarding ballot papers bearing the official
+mark prescribed by the Commission. The provisions define the components of the official mark,
+including the official stamp, signature, date and serial number traceable to the ballot booklet
+issued for the election. They also establish procedures for the treatment, documentation,
+reporting and escalation of ballot papers rejected for lack of official marks, while preserving
+statutory safeguards relating to the consideration of such ballots in circumstances of a tie as
+permitted under the Electoral Act, 2026. These measures are intended to reinforce ballot
+authenticity, prevent manipulation and strengthen the integrity of the vote-counting process.
+The Regulations also introduce clearer procedures for the electronic transmission and verification
+of polling unit results through the Bimodal Voter Accreditation System (BVAS) and the INEC
+Result Viewing Portal (IReV). They provide for the electronic transmission of validated polling unit
+results and scanned copies of Forms EC8Aseries directly from the Polling Unit, while establishing
+transparent contingency procedures in the event of transmission failure. The framework ensures
+that election officials, polling agents and stakeholders are informed of technical challenges,
+provides for institutional verification of transmission failures at the collation level, and preserves
+the integrity of the process through the use of duly authenticated result forms in accordance with
+the Electoral Act, 2026, and these Regulations and Guidelines. These provisions are designed to
+enhance transparency, result traceability and public confidence in the management of election
+results.
+Furthermore, these Regulations and Guidelines strengthen procedures for result management
+and collation, improve accountability mechanisms for election officials, enhance the deployment
+and management of BVAS, and simplify aspects of the collation framework through the
+harmonisation of relevant forms and procedures.
+To address the logistical challenges posed by large polling units, the procedure to be followed
+where multiple Bimodal Voter Accreditation System (BVAS) devices are deployed is also
+2
+REGULATIONS AND GUIDELINES FOR THE CONDUCT OF ELECTIONS, 2026
+
+--- page 3 ---
+addressed, thereby enhancing the efficiency and accuracy of voter accreditation and result
+capture. Moreover, the merger of the Result and Collation Forms—specifically, the consolidation
+of Form EC8B and other related forms—aims to streamline the collation process, reduce delays,
+and foster greater transparency at every stage.
+Additional provisions have also been incorporated to advance inclusivity and guarantee greater
+access for persons with disabilities, elderly voters, pregnant women and nursing mothers.
+These innovations, among others outlined in this document, demonstrate our unwavering
+dedication to conducting free, fair, and credible elections that truly reflect the will of the people. We
+remain committed to continuous improvement and innovation, leveraging technology and best
+practices to uphold our democratic principles. Accordingly, all stakeholders are enjoined to
+familiarise themselves with these Regulations and Guidelines and comply strictly with their
+provisions in the collective interest of peaceful, credible, free and fair elections.
+On behalf of the Commission, I commend all stakeholders—INEC staff, security agencies,
+political parties, civil society organizations, and voters—for their cooperation and commitment to
+a seamless electoral process. Together, we can strengthen Nigeria's democracy and build a
+future founded on transparency, trust, and accountability.
+Professor Joash Ojo Amupitan, SAN
+Chairman,
+Independent National Electoral Commission (INEC)
+30th April, 2026
+3
+
+--- page 4 ---
+Arrangement of Clauses
+PART I - ELECTIONSANDARRANGEMENTS FOR THEIR CONDUCT
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+Elections to which these Regulations and Guidelines Apply
+Date of General Election
+Date of Off-Cycle Governorship Elections
+Date of Federal Capital Territory (FCT) Area Council Elections
+Persons Eligible to Vote
+Poll officials, Collation/Returning Officer and Security officer
+Role of Security Agents
+Where to Vote
+Location of Polling Units
+Polling Unit Officials
+Appointment of Polling Agents
+Qualification of Polling Agents
+Disqualification of a Polling Agent
+Inspection of Samples of Relevant Electoral Materials
+PART -ACCREDITATION AND VOTING PROCEDUREAT ELECTIONS
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+31.
+32.
+33.
+34.
+35.
+36.
+37.
+38.
+39.
+4
+Method of Voting
+Voting atAppropriate Polling Unit
+PersonsAllowed into the Polling Unit
+Polling UnitAttendance Register
+Commencement of Polls
+Mandatory Use of the Bimodal VoterAccreditation System (BVAS)
+Accreditation and Voting
+Failure of Accreditation
+Deployment of more than one BVAS in a Polling Unit
+PVC at the Wrong Polling Unit
+Presentation of PVC Belonging to Another Person
+Sustained Malfunction or Replacement of BVAS and Continuation
+Visually Impaired or voter with disability (PWD)
+Priority to Some Categories of Voters
+Voter not to Make a Mark for Identification
+Accidental Spoiling of Ballot Paper
+Impersonation and Underage Voting
+Power of Presiding Officer to Remove Persons from Polling Units
+Prohibition of the Use of Telephones and Other Electronics
+Thumb-Printing and Dropping Ballots in the Ballot Box
+Proper Placement of Ballot Boxes
+Leave to Remain in the Vicinity of the Polling Unit after Voting
+Close ofVoting
+Counting of Ballot Papers without the Official Mark Prescribed by the Commission
+Close of Voting Procedures, Sorting and Counting of Ballots and Recording of Votes
+REGULATIONS AND GUIDELINES FOR THE CONDUCT OF ELECTIONS, 2026
+
+--- page 5 ---
+40.
+41.
+42.
+43.
+44.
+45.
+46.
+Electronic Transmission of Results and Upload of Results to I ReV
+Mandatory Pasting of Form EC60E
+Custody of EC8A and Mandatory Collection of Electoral Operations Copy of Results
+Over Voting
+Discrepancy between Number of Ballots and Votes Recorded
+Consideration of Report of Discrepancy in Polling Unit Result by RA/Ward Collation Officer
+Where Election was Not Held or Cancelled
+PART - COLLATION OF ELECTION RESULTS AND MAKING OF RETURNS
+47.
+48.
+49.
+50.
+51.
+52.
+53.
+54.
+55.
+56.
+57.
+58.
+59.
+60.
+61.
+62.
+63.
+64.
+65.
+66.
+67.
+68.
+69.
+70.
+71.
+72.
+73.
+74.
+75.
+76.
+77.
+5
+Commission to Designate Locations for Collation of Election Results
+Prohibition of Access to the Personal Staff of Collation and Returning Officers to Collation
+Centre
+Levels of Collation of Election Results
+Use of Results Electronically Transmitted or Transferred Directly from Polling Units for
+Collation, Collation where INEC Hardcopy of Results Do not Exist and Use of Duplicate
+Hardcopies from OtherAgencies
+Prohibition of Phone Calls During Collation of Results
+Principles for Result Collation
+Use of INEC Copies of Results where Available
+Regeneration of Results from Lower Levels
+Collation at the RAor Ward Level
+Resolving Discrepancies in Polling Unit Results at RA/Ward Collation
+Collation at RA or Ward Level where Election Extends to the Following Day in some Polling
+Units
+Collation of Presidential Election Results at the LGA Level
+Collation of Presidential Election Result at State Level
+Collation of Presidential Election Result at National Level
+Supplementary Election Due to Over Voting.
+Announcement of Result Despite Supplementary Election Due to Over Voting
+Postponement of Election Due to Breach of the Peace, Natural Disasters or other
+Emergencies
+Making a Return Notwithstanding Postponement Due to Breach of the Peace, Natural
+Disasters, or other Emergencies
+Postponement of Election Due to Non-Replacement of BVAS
+Making a Return Notwithstanding Postponement Due to Non-Replacement of BVAS
+Margin of Lead Principle
+Managing the Margin of Lead Principle
+Making a Return/ Declaration of Result for Presidential Election
+Equality of Highest Votes by Two or more Candidates in Presidential Election
+Run-Off Elections for Presidential Elections
+Distribution of Form EC8E and Completion of Form EC40H(V) by the Chief Electoral
+Commissioner
+Margin of Lead Principle and Supplementary Election for Presidential Election
+Uncontested Presidential Election
+Collation of Senatorial District Election Result at LGA/Area Council Level
+Collation and Declaration of Senatorial District Election Result at Constituency Level
+Supplementary Election for Senatorial District Election
+REGULATIONS AND GUIDELINES FOR THE CONDUCT OF ELECTIONS, 2026
+
+--- page 6 ---
+78.
+79.
+80.
+81.
+82.
+83.
+84.
+85.
+86.
+87.
+88.
+89.
+90.
+91.
+92.
+93.
+94.
+95.
+96.
+97.
+98.
+99.
+100.
+101.
+102.
+103.
+104.
+105.
+106.
+107.
+108.
+109.
+110.
+111 .
+112.
+113.
+114.
+115.
+116.
+117.
+6
+Collation of Federal Constituency Results with Less than One LGA
+Collation of Federal Constituency Election Result at LGA/Area Council level
+Collation and Declaration of Federal Constituency Election Result at Constituency Level
+Supplementary Election for Federal Constituency Election
+Collation of Governorship Election Result at LGA Level
+Collation of Governorship Election Result at State Level
+Making a Return/ Declaration for Governorship Election
+Distribution and Custody of Result Sheets for Governorship Election
+Equality of Highest Votes by Two or more Candidates in Governorship Election
+Run-off election for Governorship election
+Supplementary election for Governorship election
+Uncontested Governorship Election
+Collation and Declaration of Election Results in State Constituency with one LGA
+Supplementary Election for State Constituency Election
+Collation of Election Results in State Constituency with more than one LGA
+Supplementary Election for State Constituency with More than One LGA
+Collation of Election Results in State Constituency with more than one LGA
+Supplementary Election for State Constituency with less than one LGA
+Collation of Federal Capital Territory (FCT)Area Council
+Procedure for the collation of result at a supplementary election
+Request for Leave to Comment or Raise Objection by Polling Agents
+Rejection, Cancellation or Voiding of Results
+Collation and Returning Officers to Complete Result Collation after Disruption
+Power of Collation and Returning Officers to Remove Persons from the Collation Centre
+Declaration/Return Made Involuntarily or Contrary to Law, Regulations and Guidelines
+Power of the Commission to review declaration (Section 65 of the Electoral Act 2026)
+Report to the Chairman of the Commission
+Establishment of "Election Review Committee" (ERC)
+Where the Commission cannot meet
+The Election Review Committee
+Report of the Review
+Under Review
+Emergency Review Committee
+Access to Polling Units, Collation Centres, etc.
+Role of Polling Agents
+Role of Election Observers
+Reverse Logistics
+Interpretation
+Amendments, Supplements and Schedules
+Repeal
+REGULATIONS AND GUIDELINES FOR THE CONDUCT OF ELECTIONS, 2026
+
+--- page 7 ---
+Regulations and Guidelines for the Conduct
+of Elections, 2026
+In exercise of the powers conferred by the Constitution of the Federal Republic of
+Nigeria 1999 (as amended) and the Electoral Act 2026, the Independent National
+Electoral Commission (INEC) herein referred to as "the Commission" issues the
+following regulations and guidelines for the conduct of Elections (General Election,
+Off-Cycle Elections, Bye-elections, Re-run Elections, Supplementary Election and
+Federal Capital Territory (FCT) - Area Councils Election). These Regulations and
+Guidelines are issued pursuant to section 160 (1) of the Constitution of the Federal
+Republic of Nigeria 1999 (as amended) and Section 151 of the Electoral Act, 2026.
+They supersede all other regulations and/or guidelines on the conduct of elections
+issued by the Commission and shall remain in force until replaced by new Regulations
+and Guidelines or updated by way of revisions or supplementary regulations and
+guidelines supported by Decision Extracts of the Commission or an official gazette.
+PART I - ELECTIONS AND ARRANGEMENTS FOR THEIR CONDUCT
+1.
+2.
+3.
+4.
+7
+These Regulations and Guidelines shall apply to the conduct of elections to the
+following offices:
+(iii)
+(iv)
+(v)
+(vi)
+President and Vice President;
+Governor and Deputy Governor;
+National Assembly (Senate and House of Representatives);
+State Houses ofAssembly;
+Chairmen and Vice-Chairmen of the Federal Capital Territory (FCT)
+Area Councils; and
+Councillors of Federal Capital Territory (FCT) Area Councils
+Legislature.
+Election to the office of President and Vice President as well as National
+Assembly shall hold on the Third Saturday of January of any General Election
+year or as may be determined by the Commission, while election to the Office
+of Governor and Deputy Governor and the State Houses of Assembly shall
+hold three (3) weeks thereafter.
+An off-cycle Governorship election shall hold on the Saturday following the
+100th day to the end of the tenure of the incumbent, or as may be determined
+by the Commission.
+(a) Whenever the end of tenure of Federal Capital Territory (FCT) Area
+Councils coincides with a General Election year, election into the office of
+Chairman and Vice Chairman and Councillors of the Area Councils shall be
+held with the election for Governor and Deputy Governor and the State Houses
+ofAssembly.
+(b) Where the end of tenure of Federal Capital Territory (FCT) Area
+Councils does not coincide with a General Election year, the election to
+the office of Chairman and Vice-Chairman and Councillors of the Area
+Councils shall hold on the Saturday following the 100th day to the end
+of the tenure of the incumbent, or as may be determined by the
+Commission.
+Elections to which
+these Regulations
+and Guidelines
+Apply
+Date of General
+Election
+Date of Off-Cycle
+Governorship
+Elections
+Date of FCT Area
+Council Elections
+REGULATIONS AND GUIDELINES FOR THE CONDUCT OF ELECTIONS, 2026
+
+--- page 8 ---
+5.
+6.
+7.
+8.
+9.
+8
+A person shall be eligible to vote at an election conducted by the Commission if:
+(iv)
+(v)
+He/she is a Nigerian Citizen
+He/she is a registered voter
+His/her name appears in the Register ofVoters and
+He/she presents a valid Permanent Voter's Card (PVC)/ a
+downloadable copy (Section 1 8(1 ) of the Electoral Act 2026) at his/her
+Polling Unit and
+His/her biometric data is authenticated by the Bimodal Voter
+Accreditation System (BVAS).
+Poll Officials, Collation and Returning Officers as appointees of the
+Commission and Security Officials on election duty shall abide by the oath of
+loyalty and neutrality for Election Officials, as provided in Section 26(1) of the
+Electoral Act 2026, and act in accordance with extant Regulations and
+Guidelines of the Commission.
+Security Agents on election duty shall:
+i.
+ii.
+iii.
+vi.
+vii.
+viii.
+ix.
+Provide security at the Polling Units/Polling Stations and Collation
+Centres to ensure that the Polling Units, counting of ballots, collation
+and declaration of results are conducted without any disturbance;
+Take necessary measures to prevent violence or any activity that can
+threaten to disrupt the elections;
+Comply with any lawful directive(s) issued by or under the authority of
+'NEC;
+Ensure the safety and security of all election personnel and materials by
+escorting and guarding the materials at all levels as appropriate;
+Arrest on the instruction of the Presiding Officer or other INEC officials,
+any person(s) causing any disturbance or preventing the smooth
+conduct of proceedings at Polling Units/Stations and Collation Centres;
+On the instruction of the Presiding Officer, stand at the end of the queue
+of voters at the Polling Unit at the official close of poll to prevent any
+person joining in;
+Escort the Presiding Officer and other election officials to deliver the
+election results, ballot boxes and other election materials safely to the
+RA/Ward Collation Centre; a nd
+Escort Collation Officers to deliver election results to the Returning
+Officer and subsequently to the Resident Electoral Commissioner or
+Electoral Officer, as the case may be, for the submission of election
+materials and results.
+Work harmoniously with the election officials and not interfere/disrupt
+the Electoral process.
+Voting in any election to which these regulations and guidelines apply shall
+take place at Polling Units established by the Commission.
+(a) Whenever practicable, Polling Units shall be located within enclosures in
+public places accessible to every voter, including Persons with Disability
+(PWDs). Where they are in open spaces, canopies may be provided.
+Persons
+Eligible to
+Vote
+Poll officials,
+Collation/
+Returning
+Officer and
+Security
+officer on
+election duty
+Role of
+Security
+Agents
+Where to
+Vote
+Location of
+Polling
+Units
+(b)
+Public places include public schools, civic centres, town halls and
+communal open spaces. Polling Units shall not be in places of worship,
+palaces of traditional rulers and private homes.
+REGULATIONS AND GUIDELINES FOR THE CONDUCT OF ELECTIONS, 2026
+
+--- page 9 ---
+10.
+11.
+12.
+13.
+14.
+9
+(a) Each Polling Unit shall have a Presiding Officer (PO) and three (3)
+Assistant Presiding Officers (APOs) namely, APO l, APO II and APO Ill.
+(b) The APO I shall be designated as the Poll Clerk. Where polls have
+commenced and the PO for any reason has to leave the Polling Unit,
+the APO I (Poll Clerk) shall act in his/her place, pending his/her return
+or replacement.
+(a) A candidate in consultation with his/her political party may by notice
+appoint one person as his/her Polling Agent for each Polling Unit, one Polling
+Agent for each Collation Centre and one representative at each point of
+distribution of Electoral materials in the constituency where it is sponsoring
+candidate(s) for an election.
+(b)
+(c)
+(d)
+The notice referred to in 1 1 (a) shall be in writing, signed and addressed
+to the Resident Electoral Commissioner and submitted through the
+Electoral Officer at least 14 days to the election and uploaded by the
+Political Party to a dedicated web portal as the Commission may
+decide.
+The notice shall contain the names, addresses and Contact details,
+two recent passport photographs and sample signature of the Polling
+Agents and the respective Polling Units or Collation Centres to which
+they have been assigned, and shall be submitted or uploaded to the
+web portal not later than the last day stipulated in the Timetable and
+Schedule of Activities for the election.
+Only a Polling Agent who has been accredited by the Commission in
+the prescribed manner shall receive a copy of the result sheet at a
+Polling Unit or Collation Centre.
+No person shall be qualified to be appointed or serve as a Polling Agent of any
+Political Party at an election if he/she is serving as Chairman or member of a
+Local Government Area or Area Council, Commissioner, Deputy Governor or
+Governor of a State, Minister of the Federal Government, or holding elective
+or appointive political office, or is employed in the public service under any tier
+of government and has not resigned from his/her office at least three months
+before the election.
+A Polling Agent who aids and abets election malpractices at a Polling Unit or
+Collation Centre shall be disqualified and on the instruction of the Poll Official/
+Collation/Returning Officer, removed from the Polling Unit/Collation Centre
+and be liable to prosecution.
+The Commission shall make available samples of relevant Electoral materials
+(Name, logo and acronym and establish that the materials are in the right
+order) for inspection by Political Parties in compliance with Section 42 of the
+Electoral Act 2026 and:
+Polling Unit
+Officials
+Qualification
+of Polling
+Agents
+Disqualificati
+on of a
+Polling Agent
+Inspection of
+Samples of
+Relevant
+Electoral
+Materials
+a.
+b.
+C.
+d.
+Invite all Political Parties that nominated candidate(s) in the election to
+confirm its identity on samples of relevant Electoral materials
+proposed for the election;
+The Political Parties shall within two (2) days of the inspection,
+approve or disapprove in writing, their identities on the samples of the
+Electoral materials for the election;
+Any Political Party that fails to approve or disapprove its identity in
+writing within two (2) days of the inspection, shall not complain of
+unlawful exclusion as regards its identity; and
+Failure to participate in the inspection as notified by the Commission
+shall be deemed to be approval ofthe Political Party's identity.
+REGULATIONS AND GUIDELINES FOR THE CONDUCT OF ELECTIONS, 2026
+
+--- page 10 ---
+PART -ACCREDITATION AND VOTING PROCEDURE AT ELECTIONS
+15.
+16.
+17.
+18.
+19.
+20.
+10
+Voting shall be in accordance with the Continuous Accreditation and
+VotingSystem (CAVS) procedure as specified in these Regulations and
+Guidelines, the Manual for Election Officials and any other Guidelines issued
+by the Commission.
+(a) No person shall be allowed to vote at any Polling Unit other than the one at
+which his/her name appears in the Register of Voters, he/she presents
+PVC/downloadable copy and is authenticated using the Bimodal Voter
+Accreditation System (BVAS), or as otherwise determined by the Commission.
+Each Voter shall cast his/her vote in person at the Polling Unit where
+b.
+he/she registered or was assigned, in the manner prescribed by the
+Commission.
+The Presiding Officer shall regulate the admission of voters to the Polling Unit
+and shall exclude all other persons except Accredited Polling agents or
+candidates serving as their own polling Agent, Election Officials, Security
+Personnel, Accredited Observers, Accredited Media and any other person who
+in his/her opinion has lawful reason to be admitted.
+Attendance Register in Polling Unit (PU) booklet will be signed by the following
+categories of election personnel: Presiding Officer (PO), Assistant Presiding
+Officer (APO), Polling Agents, Security Personnel, Accredited Observers and
+Media.
+(a) At 8:00am or at a time prescribed by the Commission, the Presiding Officer
+of a Polling Unit shall introduce himself/herself, to the Poll Officials, Polling
+Agents and Accredited Observers present and cross-check the adequacy of
+Electoral materials.
+b.
+C.
+d.
+He/she shall invite the accredited Polling Agents to observe the
+Electoral materials to be used for the elections. Accredited Polling
+Agents, accredited observers or officials of the Commission, may
+record this process in writing or video provided that this process does
+not disrupt the timely opening of polls.
+The Presiding Officer shall record the quantity, serial numbers, and
+other particulars of the inspected sensitive materials in the prescribed
+forms for the conduct of the election.
+Between 8:00am and 8:30am or at a time prescribed by the
+Commission, the Presiding Officer shall:
+(iii)
+(iv)
+(v)
+(vi)
+Open and display the empty ballot box and confirm to all
+persons present at the Polling Unit that the BVAS accreditation
+data is zero before commencement of accreditation and voting.
+Thereafter close and seal the ballot box in a manner prescribed
+by the Commission;
+Explain the accreditation and voting procedures to all present;
+Separate the queue between men and women, where the
+culture does not allow the mingling of the genders;
+Create a separate queue for PWDs, visibly pregnant and
+breast-feeding mothers as well as the elderly;
+Allow voters into the Polling Unit in an orderly queue; and
+Declare the Polling Unit open for accreditation and voting at
+8:30am.
+(a) In accordance with Section 47 (2) of the Electoral Act 2026, a person
+intending to vote shall be verified to be the same person on the Register of
+Voters by the use of the Bimodal Voter Accreditation System (BVAS) or any
+REGULATIONS AND GUIDELINES FOR THE CONDUCT OF ELECTIONS, 2026
+Method of
+Voting
+Voting at
+Appropriate
+Polling Unit
+Persons
+Allowed into
+the Polling
+Unit
+Polling Unit
+Attendance
+Register
+Commenceme
+nt of Polls
+Mandatory
+Use of the
+Bimodal Voter
+Accreditation
+System
+(BVAS)
+
+--- page 11 ---
+other device approved by the Commission, in the manner prescribed in these
+Regulations and Guidelines.
+(b) Any poll official who fails to verify voters in the manner prescribed by
+the Commission shall be deemed to be guilty of dereliction of duty and
+shall be liable to prosecution.
+(a) On election day, accreditation and voting shall commence at 8.30am and
+close at 2:30pm or as maybe determined by the Commission, provided that all
+voters already on the queue by 2:30pm shall be allowed to accredit and vote.
+21.
+11
+Accreditation
+and Voting
+(c)
+(ii)
+(d)
+The accreditation process shall comprise of:
+Checking the Permanent Voter's Card (PVC)/downloadable copy of
+the voter;
+Successful identification of the voter in the BVAS;
+(iii)
+(v)
+(vi)
+(vii)
+Authentication of the voter by matching his/her fingerprints or
+face (facial recognition) using the BVAS;
+Successful identification of the voter in the Register of Voters;
+Completing Forms EC40H(l) — PWD Voter Information and
+Statistics;
+Applying indelible ink to the cuticle of the finger of the voter
+(where available); and
+Priority voters' queue for pregnant women, nursing mothers,
+aged persons, and persons with disabilities.
+The voter shall present himself/herselfto the APO Ill for the Polling Unit
+who shall:
+(iii)
+(iv)
+(v)
+(vi)
+(vii)
+(viii)
+Determine that he/she is at the correct Polling Unit. If the APO
+Ill is unable to determine the correct Polling Unit of the voter
+from his/her PVC/downloadable copy, this should be
+ascertained from the list of voters pasted at the Polling Unit or
+as prescribed by the Commission;
+Upon inspection of the PVC/downloadable copy presented by
+the voter, if the APO Ill discovers that the PVC/downloadable
+copy is not for the Polling Unit, the APO Ill shall advise the voter
+to proceed to the appropriate Polling Unit;
+Check whether the voter is a person with disability and needs
+assistive device(s)/facilities to aid the voting process;
+Request for the PVC /downloadable copy from the voter,
+provided that any intending voter without a valid
+PVC/downloadable copy shall not be allowed to vote;
+Confirm that the voter has not voted anywhere else by
+inspecting the cuticle of his/her fingernails, and if satisfied
+direct the voter to the APO l;
+APO Ill shall at this point create a separate priority for persons
+with disabilities and provide any further assistance to them as
+may be determined by the Commission.
+If the voter is at the right polling unit and confirms to the APO Ill
+that he or she is a person with disability, the APO Ill shall
+immediately inform him or her of the availability of priority voting
+and direct him or her to the queue for PWDs; and
+Ifthe PWD cannot effectively communicate with the APO Ill due
+to hearing or speech impairment, the APO Ill shall direct the
+REGULATIONS AND GUIDELINES FOR THE CONDUCT OF ELECTIONS, 2026
+
+--- page 12 ---
+PWD to the Election Day written instruction (Form EC 30 PWD) for
+more directive. Attention to such PWD shall be prioritised.
+TheAPO I shall:
+(d)
+12
+(ii)
+(iii)
+(iv)
+Call up the Voter's data on the BVAS by reading the bar code on
+the back of the PVC or reading the QR code against the name of
+the voter in the Register of Voters or entering the last six digits of
+the Voter Identification Number (VIN) of the voter into the BVAS or
+searching the BVAS with the surname of the voter;
+On appearance of the voter' data on the BVAS the APO I shall
+ascertain that the photograph on the PVC is that of the voter and
+that the Polling Unit details correspond with those of the Polling
+Unit;
+Request the Voter to place his/her thumb or any other finger
+(where possible) in the place provided on the BVAS for
+authentication or, if this fails, match the face of the voter to the
+picture in the BVAS using the device's facial recognition facility;
+and
+if the fingerprint or face of the voter matches, request the voter to
+proceed to APO II.
+The verified voter shall then proceed to theAPO II who shall:
+(ii)
+(iii)
+(iv)
+(v)
+(vi)
+Request for the Voter's PVC;
+Check the Register of Voters to confirm that the voter's details:
+name, Voter Identification Number (VIN) and others as contained
+in the Register of Voters;
+Tick the appropriate box of the horizontal boxes on the right
+margin beside the voter's details on the Register, showing the
+category of election and that the person's name is on the Register
+of Voters;
+Provide voters with disability the appropriate voting assistive
+materials, where available, according to their respective disability
+status;
+Document the status of the voter; if the voter is a PWD by
+completing the PWD Form EC40H as prescribed; and
+Apply indelible ink to the cuticle of the finger (where available) to
+indicate that the voter has been accredited to vote in that election.
+The accredited voter shall proceed to the PO who shall:
+(ii)
+(iii)
+(v)
+(vi)
+Check the cuticle of the finger/thumbnail of the voter (where
+available) to confirm that he/she has been accredited;
+On being satisfied that the person before him/her has been duly
+accredited, stamp, sign and write the date of the election on the
+back of the ballot paper(s) for the respective categories of
+elections;
+Request the voter to remove any cell phone or photographic
+device in his/her possession before proceeding to voting cubicle;
+Direct the voter to the voting cubicle to mark his/her choice on the
+ballot paper;
+Ensure that the voting cubicle and ballot box are accessible for
+PWD to independently complete the voting process; and
+Ensure that the voter deposits the marked ballot paper in the
+REGULATIONS AND GUIDELINES FOR THE CONDUCT OF ELECTIONS, 2026
+
+--- page 13 ---
+22.
+23.
+13
+appropriate ballot box.
+Where a voter cannot be identified by the BVAS for the Polling Unit using the
+methods outlined in Clause 19 (d) of these Regulations and Guidelines or
+where the voter's fingerprint or face cannot be matched with the details in the
+BVAS after three trials, the voter shall not be allowed to vote. In that case, the
+APO I shall:
+i.
+ii.
+iii.
+Advise the voter to use appropriate channels to notify the Commission
+(through the Resident Electoral Commissioner) of his/her failure to
+accredit;
+Politely request the voter to leave the Polling Unit; and
+Tick the appropriate box against the voter's name labelled FA (denoting
+"Failed Accreditation") at the left margin of the voter's details on the
+register.
+Where a Polling Unit has more than 1 ,250 voters, such number of registered
+voters above the specified threshold determined by the Commission, more
+than one BVAS may be deployed for accreditation.
+Failure of
+Accreditation
+Deployment
+of more than
+one BVAS in a
+Polling Unit
+a)
+b)
+c)
+d)
+The Commission shall publish the list of Polling Units where multiple
+BVAS will be deployed not later than 14 days before election day and
+shall make this information available through:
+l.
+The Commission's Official website,
+The Commission's State Offices and the Federal Capital
+Territory (FCT) Office,
+The Commission's Local Government Area (LGA)/ Area
+Council Offices,
+Stakeholders during the Stakeholders meetings preceding the
+election, and;
+The affected Polling Unit(s) on the Day of the Election.
+Voters shall be assigned to each BVAS using the first alphabet of their
+surnames, or in any manner determined by the Commission for that
+election.
+The Commission shall display the list of the register of voters as
+assigned to each BVAS at the affected Polling Unit on the Day of
+Election.
+There shall be one Presiding Officer for the Polling Unit notwithstanding
+the number of BVAS deployed, however, the Commission may appoint
+additional Assistant Presiding Officers (APOs) to undertake additional
+functions to facilitate accreditation and voting.
+The Presiding Officer shall, on conclusion of accreditation, voting and
+counting of ballot papers:
+i.
+ii.
+iii.
+Request for all the BVAS used for accreditation in the Polling
+Unit,
+Add all the number of accredited voters in all the deployed
+BVAS together,
+Record the total accredited voters in the Form EC8A Series and
+the e-EC8Ain the BVAS, and;
+There shall be only one result sheet (Form EC8A series) for the
+Polling Unit irrespective of the number of BVAS deployed and
+shall be the result to be transmitted to the IRev Portal.
+REGULATIONS AND GUIDELINES FOR THE CONDUCT OF ELECTIONS, 2026
+
+--- page 14 ---
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+14
+Where the PVC presented by the voter is not for the Polling Unit, the APO I
+shall politely inform the voter and advise him/her to proceed to the appropriate
+Polling Unit.
+Any person who presents the PVC of another person with an intention to use it
+to vote, shall not be allowed to vote and is liable to arrest and prosecution.
+(a) In the event of sustained malfunction of the Bimodal Voter Accreditation
+System (BVAS), the Presiding Officer (PO) shall:
+(ii)
+(iii)
+(b)
+(c)
+Immediately inform Supervisory Presiding Officer (SPO), RATECH,
+RA Supervisor, the Electoral Operation Support Centre (EOSC), LGA
+Supervisor and the Electoral Officer (EO)
+Inform the voter and Polling agents of the situation
+Suspend accreditation and voting until a new BVAS is made available
+Where a replacement BVAS is not available by 2:30pm, the Presiding
+Officer shall:
+Inform the voters and Polling agents that accreditation and
+voting for the affected polling unit shall continue the following
+day.
+File a report of the incident in writing to the RA supervisor
+through the SPO.
+Where a BVAS is replaced in the middle of an election, the data of
+verified voters in the faulty BVAS shall be merged with data in the
+replacement BVAS for purposes of determining the number of verified
+voters.
+(a) The Presiding Officer shall allow a voter who is visually impaired or with
+other forms of disability, who is unable to distinguish symbols or who has any
+other physical disability to be accompanied into the Polling Unit and be
+assisted to vote by a person chosen by him/her, other than an Election Official,
+a polling agent or a security personnel on election duty.
+(b)
+(c)
+Visually Impaired registered voters may, where available, use
+Assistive Voting Devices such as the Braille Ballot Guide or
+magnifying glass.
+No person shall accompany a voter to the voting area or assist a voter
+in marking a ballot paper, except as specified in the Electoral Act 2026
+and these Regulations and Guidelines.
+Persons with Disabilities (PWDs), visibly pregnant women, nursing or breast-
+feeding mothers and the elderly, shall be granted priority access to voting at
+the Polling Units.
+(ii)
+Avoter shall thumb mark his/her ballot paper using the ink provided
+A voter shall not make any mark on the ballot paper by which he/she
+may be identified. If he/she does so, such ballot paper shall be
+rejected provided that any print resulting from the staining of the
+fingerprint of the voter in the voting cubicle shall not be deemed to be a
+mark of identification.
+A voter who by accident spoils his/her ballot paper such that it cannot be used
+for voting may present it to the Presiding Officer and if satisfied that the ballot
+paper is spoilt, the Presiding Officer shall issue another ballot paper to the
+voter in place of the spoilt ballot paper and the spoilt ballot paper shall be
+marked "cancelled" by the Presiding Officer, and recorded in the EC8A result
+sheet provided as well as in the appropriate form in the PU booklet.
+PVC at the
+Wrong Polling
+Unit
+Presentation
+of PVC
+Belonging to
+Another
+Person
+Sustained
+Malfunction
+Replacement
+of BvAS and
+Continuation
+of Elections
+Visually
+Impaired or
+voter with
+disability
+(PWD)
+Priority to
+Some
+Categories of
+Voters
+Voter not to
+Make a Mark
+for
+Identification
+Accidental
+Spoiling of
+Ballot
+Paper
+REGULATIONS AND GUIDELINES FOR THE CONDUCT OF ELECTIONS, 2026
+
+--- page 15 ---
+31.
+32.
+33.
+34.
+35.
+36.
+37.
+38.
+15
+If a person presents himself/herself to vote and the Presiding Officer is
+informed that there is reasonable ground to believe that the person is
+underage, a non-Nigerian or impersonating, the Presiding Officer shall:
+(iii)
+(iv)
+Request the person giving the information to complete the prescribed
+form EC40D undertaking to substantiate the charge in a Court of Law.
+Ask the person against whom the protest is made if he/she is
+impersonating or underage. If the person owns up, the Presiding
+Officer shall not allow him/her to vote and may request the Security
+Official on duty at the Polling Unit to arrest the person.
+Where the person denies the charge the Presiding Officer, allows the
+person to vote but the presiding officer shall cause the words
+"protested against for impersonation" to be placed against his or her
+name in the marked copy of the register of voters.
+Report the action taken in accordance with i, ii and iii above in the
+prescribed form EC 40D by the Commission and submit to the
+RA/Ward Collation Officer as well as the RA/Ward Supervisor.
+The Presiding Officer may have a person who is acting in a disorderly manner
+or fails to comply with lawful order removed from the Polling Unit.
+Telephones and other electronic devices capable of taking pictures are not
+allowed in voting cubicles. Voters may come to the Polling Unit with telephones
+and other electronic devices provided that they do not take them to the voting
+cubicles or take pictures of other voters while they are voting.
+After thumb-printing the ballot, while still in the voting cubicle, the voter shall
+carefully fold the marked ballot paper and proceed to drop it in the appropriate
+ballot box. Additional ballot boxes will be provided where necessary.
+Presiding Officers shall place the ballot boxes not more than two meters away
+from the voting cubicle, in the direction of the Presiding Officers and away from
+the Polling Agents.
+After casting his/her ballot, the voter is free to remain within the vicinity of the
+Polling Unit to witness the sorting and counting of votes and the announcement
+of results, provided he/she is orderly.
+(i) At 2.30pm the Presiding officer shall direct the security personnel to stand
+behind the last voter on the queue;
+(ii)
+iii)
+iv)
+After every voter on the queue has voted, the Presiding Officer shall
+declare voting closed.
+Only ballot papers with the official mark and stamp prescribed by the
+Commission shall be counted by the Presiding Officer.
+Official marks include the official stamp, signature and date as well as
+the serial number of the booklet on the ballot paper.
+Whenever the Presiding Officer notices any ballot paper without the
+Official mark he/she should immediately endorse the word "rejected" on
+the ballot paper.
+A ballot paper rejected pursuant to section 63 (1 ) of the Electoral Act by
+the Presiding Officer shall be treated in accordance with the procedure
+specified under section 64 (3) of the Electoral Act 2026
+Impersonatio
+n
+and Underage
+Voting
+Power of
+Presiding
+Officer to Remove
+Persons from
+Polling Units
+Prohibition of the
+Use of
+Telephones and
+Other Electronic/
+Photographic
+Devices in the
+Voting Cubicle
+Thumb-Printing
+and Dropping
+Ballots in the
+Ballot Box
+Proper
+Placement of
+Ballot Boxes
+Leave to Remain
+in the Vicinity of
+the Polling Unit
+after Voting
+Close of Voting
+Counting of
+Ballot Papers
+without the
+Official Mark
+Prescribed by
+the
+Commission
+REGULATIONS AND GUIDELINES FOR THE CONDUCT OF ELECTIONS, 2026
+
+--- page 16 ---
+The report/statement of a Presiding Officer on the rejected ballot
+paper(s) pursuant to section 64(3) of the Electoral Act 2026 shall be
+escalated in the manner prescribed by the commission to the next
+level of collation and up to the level of the returning officer
+Rejected ballot paper(s) may however be counted by a returning
+officer pursuant to sections 63(2) and 64(1) of the Electoral Act only
+where there is a tie in order to make a return of the election; provided
+that the ballot paper(s) was/were from the booklet of the ballot papers
+used in the election and there is a serial number on the ballot paper(s).
+After voting has closed, the Presiding officer shall:
+39.
+40.
+16
+v)
+vi)
+(a)
+(b)
+(iv)
+(v)
+(vi)
+(vii)
+Cancel all the unused ballot papers by crossing them out;
+Sort out the ballot papers by party and thereafter loudly count
+the votes scored by each political party in the presence of the
+Polling Agents and Accredited Observers.
+Endorse the word "rejected" on all rejected ballot papers or the
+words "rejected but objected to" if an objection to the rejection
+of a ballot is raised by a candidate or Polling Agent.
+The Presiding Officer shall prepare a statement on rejected
+ballot papers stating the number rejected, reason for rejection
+and their serial number using the prescribed form or he or she
+shall on request allow a Polling agent to copy the statement
+Allow recount of votes on demand by or Polling Agent present,
+provided that such a recount shall only be allowed once;
+Enter the scores of the candidates in both figures and words in
+the appropriate Form EC8 series; and
+Cross-check the scores of candidates/parties and the totals.
+The Presiding Officer shall then:
+(ii)
+(iii)
+(iv)
+(v)
+Sign date and stamp the appropriate Form EC8A, EC8A(l) or
+EC8A(Il)
+Announce loudly the votes scored by each political party;
+Request the candidates or their Polling Agents where
+available at the Polling Unit to countersign. Refusal of any
+candidate or Polling Agent to countersign the appropriate
+Form EC8A series shall not invalidate the result of the Polling
+Unit;
+Give to the Polling Agents and the Police, a duplicate copy
+each of the completed forms and;
+Complete the PWD information boxes in the PU booklet
+On completion of all the Polling Unit voting and results procedures, the
+Presiding Officer shall:
+Close of Voting
+Procedures,
+Sorting and
+Counting of
+Ballots and
+Recording of
+Votes
+Electronic
+Transmission
+of Results and
+Upload of
+Results to IReV
+(iii)
+a)
+Use the BVAS to electronically transmit the validated Polling Unit
+results (Form EC8A). Validation shall be conducted primarily through
+the e-EC8A, supported by any other Commission-approved
+verification mechanisms."
+Use the BVAS to electronically transmit a scanned copy of the result of
+the Polling Unit (EC8A, EC8A(I) or EC8A(lI)) to the IREV portal.
+Where the transmission of the scanned copy of form EC 8A to the
+IREV Portal fails, the Presiding Officer shall:
+Notify all present at the Polling Unit and explain the challenge,
+REGULATIONS AND GUIDELINES FOR THE CONDUCT OF ELECTIONS, 2026
+
+--- page 17 ---
+b)
+c)
+d)
+(iv)
+Notify the SPO, RATECH, RA Supervisor and any other designated
+Commission Official overseeing the election,
+Include the fact of communication failure and challenges encountered
+in a submitted report,
+Deliver the BVAS and the original copy of EC 8A to the RA/Ward
+Collation Officer in company ofthe security agents, polling agents.
+The RAT ECH and the RA/Ward Collation Officer shall at the RA/Ward
+collation centre confirm the transmission failure or otherwise of the EC
+When the problem cannot be remedied at the RA/Ward Collation
+Centre, the Form EC8A signed and stamped by the Presiding Officer
+and countersigned by the candidates or polling agents where available,
+shall be used as the primary source of collation for that Polling Unit.
+41.
+42.
+43.
+44.
+45.
+46.
+After completing the EC8A, and it is electronically transmitted from each Polling
+Unit to the IREV Portal, the Presiding Officer shall complete and paste the
+completed Publication of Result Poster EC60(E) at the Polling Unit
+conspicuously. Pasting of Form EC60(E) is mandatory and failure to do so may
+amount to dereliction of duty and shall be liable for prosecution.
+The Presiding Officer shall keep the originals of EC8A series and the first
+duplicate copy for the Commission.
+(a). Where the total number of votes cast at a Polling Unit exceeds the number
+of accredited voters, the result of the election for that Polling Unit shall be
+cancelled and there shall be no return for the election until another poll has
+taken place. However, if the commission is satisfied that the result of the
+election will not substantially be affected by voting in the affected Polling Unit,
+direct that a return of the election be made.
+(b). Where the total number of votes cast at a Polling Unit exceeds the
+number of accredited voters due to resistance or non-use of BVAS for
+accreditation, the result of the election of that Polling unit shall be
+credited with zero votes.
+Where after a crosscheck and recount, the total sum of spoiled ballot papers,
+rejected ballots and valid votes is not equal to the total sum of used ballots, in
+such cases a discrepancy exists. The Presiding Officer shall cancel the result,
+fill form EC40G submit a written report to the RA/Ward Collation Officer.
+The RA/Ward Collation Officer shall examine the report of the Presiding Officer
+on any discrepancy in ballots and votes and further attempt to reconcile the
+figures. Where the figures cannot be reconciled, the RA/Ward Collation Officer
+shall fill form EC40G(1) and make his/her own report to the LGA Collation
+Officer, attaching the Presiding Officers' Report. At this point, the Presiding
+Officer shall transmit the Form EC40G to the IRev Portal.
+In a Polling Unit where election is not held or is cancelled in accordance with the
+provisions of the Electoral Act 2026 and these Regulations and Guidelines, the
+Presiding Officer shall fill form EC40G and report same in writing to the
+RA/Ward collation Officer explaining the nature of the problem and the
+Collation Officer shall fill form EC40 G (l). At this point, the Presiding Officer
+shall transmit the Form EC40 G to the IRev Portal.
+Mandatory
+Pasting of
+Form EC60E
+Custody of
+EC8A and
+Mandatory
+Collection of
+Electoral
+Operations Copy
+of Results
+Over Voting
+Discrepancy
+between
+Number of
+Ballots and
+Votes
+Recorded
+Consideration of
+Report of
+Discrepancy in
+Polling Unit
+Result by
+RA/Ward
+Collation Officer
+Where Election
+was Not Held
+or Cancelled
+REGULATIONS AND GUIDELINES FOR THE CONDUCT OF ELECTIONS, 2026
+
+--- page 18 ---
+PART - COLLATION OF ELECTION RESULTS AND MAKING OF RETURNS
+47.
+48.
+49.
+50.
+51.
+18
+Collation and declaration of results shall take place at locations designated by
+the Commission.
+No personal staff or assistant of a Collation or Returning Officer appointed by
+the Commission, is allowed into the RA/Ward, LGA, Constituency or State
+Collation Centres. A Collation or Returning Officer requiring any assistance
+with his or her duties shall make a request to the Chairman of the Commission
+and the Commission shall provide such assistance.
+The collation and declaration of election results shall be done at the following
+levels depending on the type of election:
+(iv)
+(v)
+(vi)
+(vii)
+Registration Area - RA/Ward (Collation for all elections), including that
+of Councillor in the case ofthe Federal Capital Territory (FCT);
+Local GovernmentArea- LGA/Area Council (Collation for all elections),
+including that of Chairman in the case of the Federal Capital Territory
+(FCT);
+State Constituency (Collation and Declaration of State House of
+Assembly Elections);
+Federal Constituency (Collation and Declaration of House of
+Representatives Elections);
+Senatorial District (Collation and Declaration of Senatorial District
+Elections);
+Governorship (Collation and Declaration of Governorship Elections);
+and
+Presidential (Collation and Declaration of Presidential Election)
+(a) An election result shall be collated only if the Collation Officer ascertains
+that the number of accredited voters agrees with the number recorded in the
+BVAS and votes scored by Political Parties on the result sheet is correct and
+reconciles with the result electronically transmitted or transferred directly from
+the Polling Unit to collate and announce the result as prescribed in the
+Electoral Act 2026 and these Regulations and Guidelines.
+(b)
+(c)
+(d)
+If a Collation or Returning Officer determines that a result from a lower
+level of collation is not correct, he/she shall re-collate the result from
+the information from the lower level collate and announce a new result.
+Where the INEC hardcopy of collated results from the immediate lower
+level of collation does not exist, the Collation Officer shall use
+electronically transmitted results or results from the IReV portal / the
+information in the BVAS to continue collation. Where none of these
+exist, the Collation Officer shall use the duplicate hardcopies issued by
+the Commission to the following:
+(iii)
+The first duplicate copy (Electoral Operations Copy)
+The Nigeria Police Force; and
+Agents of Political Parties.
+Where all hardcopies and the scanned copy on the BVAS are not
+available and the transmitted result from IRev is not available, the
+election shall be cancelled
+Collation and Returning Officers are not allowed to make or receive telephone
+calls during collation.
+Commission to
+Designate
+Locations for
+Collation of
+Election Results
+Prohibition of
+Access to the
+Personal Staff of
+Collation and
+Returning
+Officers to
+Collation Centre
+Levels of
+Collation of
+Election Results
+Use of Results
+Electronically
+Transmitted or
+Transferred
+Directly from
+Polling Units for
+Collation
+Prohibition of
+Phone Calls
+During Collation
+of Results
+REGULATIONS AND GUIDELINES FOR THE CONDUCT OF ELECTIONS, 2026
+
+--- page 19 ---
+52.
+53.
+54.
+55.
+19
+The following principles shall guide the collation of election results:
+(iii)
+(iv)
+(v)
+Voting takes place at Polling Units. Therefore, Forms EC8Aseries and
+EC60E poster are the building blocks for any collation of results;
+All INEC staff (permanent and ad-hoc) involved in the resumed
+collation of results shall conduct the process with openness and
+transparency;
+During the collation of results, complaints shall be heard insofar as
+they are not disruptive.
+The Commission and its designated officials, including Collation
+Officers (COS) and Returning Officers (ROS), shall have the final say
+in the collation of results; and
+The collation shall be conducted in an atmosphere of mutual respect
+among all participants. There shall be zero tolerance for disruptive
+behavior and intemperate language, and all participants must act with
+decorum.
+At every level of collation, where the INEC copy of collated results from the
+immediate lower level of collation exists, it shall be adopted for Collation.
+Where no hardcopy of collated results is available, the results, where
+possible, shall be regenerated from the preceding level (Collation or Polling
+Unit) in accordance with Clause 50 (c) of these Regulations and Guidelines.
+The Registration Area/Ward Collation Officer shall:
+Principles for
+Result Collation
+Use of INEC
+Copies of Results
+where Available
+Regeneration of
+Results from
+Lower Levels
+Collation at the
+RA or Ward Level
+a.
+b.
+C.
+d.
+h.
+i.
+k.
+I.
+Take delivery of the original copies of Forms EC8A, EC8A(l), and
+EC8A(ll) for the Presidential, Senatorial and the House of
+Representatives elections, respectively, including the EC40H(l) and
+40G;
+Take delivery of the original copies of Forms EC8A and EC8A (l) for
+Governorship and the State Houses of Assembly elections,
+respectively;
+Take delivery of Forms EC8A and EC8A(l) for the Area Council
+Chairmanship and Councillorship elections of the Federal Capital
+Territory (FCT) respectively.
+Receive the BVAS from the respective Presiding Officers;
+Compare the number of voters verified by the BVAS with the number
+of accredited voters and total votes cast for the Polling Unit as
+contained in the Form EC8Aseries for each Polling Unit;
+Receive and consider, if any, the reports of discrepancies, adverse
+incidents and equipment failure from the Presiding Officers, including
+reports as contained in the EC40G series;
+Submit the BVAS to the respective Supervisory Presiding Officers
+(SPOs), in tamper-evident envelopes;
+Collate the votes entered in Forms EC8A, EC8A(I), and EC8A(II) for
+Presidential, Senatorial and the House of Representatives elections,
+respectively;
+Collate the votes entered in Forms EC8A and EC8A(l) for
+Governorship and State Houses ofAssembly elections, respectively;
+Collate the votes entered in Form EC8A and EC8A(l) for Area Council
+Chairmanship and Councillorship elections respectively;
+Add up the Polling Unit results to get the RA/Ward summary;
+Enter the votes in both figures and words in the appropriate spaces in
+REGULATIONS AND GUIDELINES FOR THE CONDUCT OF ELECTIONS, 2026
+
+--- page 20 ---
+m.
+n.
+O.
+p.
+Forms ECB, EC8B(l) and EC8B(Il) as the case may be;
+Complete the forms as required, date and sign same and request the
+Polling Agents to countersign;
+Complete Form EC40G for Polling Units where election is cancelled or
+not held;
+Hand over the Electoral Operations copy (first duplicate copy) of Form
+EC8B to the INEC RASupervisor.
+Distribute copies of each of the Form EC 8B or EC 8B(I) and EC 8B(Il)
+to each Polling Agent and the Police;
+(xviii)
+(xix)
+Take custody of the original copies of Forms EC8B, EC8B(l)
+and EC8B(ll) together with other materials, equipment and
+reports (if any) received from Presiding Officers at the election
+and deliver same to the LGA Collation Centre;
+Implement any other result management procedure as
+prescribed by the Commission with the assistance of the
+Collation Support and Result Verification System (CSRVS)
+Officer, or where applicable; and
+56.
+57.
+58.
+20
+Where there is any discrepancy in a result submitted by a Presiding Officer to
+the RA/ Ward Collation Officer as verified from the result transmitted or
+transferred directly from the Polling Unit, the RA/Ward Collation officer shall:
+a.
+b.
+C.
+Request explanation(s) from the Presiding Officer(s) concerned about
+the circumstances of the discrepancy;
+Identify the point of discrepancy and resolve same using the electronic
+results in line with section 62(6) of the Electoral Act 2026 and request
+the Presiding Officer to endorse the resolution and;
+Make a written report of the discrepancy or dispute and the resolution to
+the next level of collation and request the Presiding Officer to endorse
+the report provided that non-endorsement of the report shall not
+invalidate the result.
+Where at a Polling Unit, accreditation and voting are to continue the following
+day on account of the non-availability of a required replacement BVAS, the
+RA/Ward Collation Officer shall:
+a.
+b.
+C.
+d.
+Inform the Polling Agents and stakeholders at the collation centre of
+the situation;
+Collate the available results (EC8 A series) from the unaffected Polling
+Units;
+On conclusion of (b) above, proceed immediately to the LGA/Area
+Council Collation Centre where the collated results (EC8 A and EC8 B
+series) shall be handed over to the Electoral Officer in the tamper-
+evident envelope for safekeeping until the following day, when the RA
+collation shall resume, including the results (EC8 A series) of the
+affected Polling Units; and
+Inform the LGA/Area Council Collation Officer of the situation, who
+shall then proceed with the collation of the results of the unaffected
+RAs/Wards.
+The Local Government/Area Council Collation Officer for the Presidential
+Election shall:
+a.
+Resolving
+Discrepancies in
+Polling Unit
+Results at
+RA/Ward
+Collation
+Collation at RA or
+Ward level where
+election extend to
+the following day
+in some polling
+units
+Collation of
+Presidential
+Election Results
+at the LGA Level
+Take delivery of all the original copies of Forms EC8B from the
+Registration Area/Ward Collation officers together with other materials
+and reports relating to the election, including Form EC40(G) if any;
+REGULATIONS AND GUIDELINES FOR THE CONDUCT OF ELECTIONS, 2026
+
+--- page 21 ---
+b.
+C.
+d.
+h.
+i.
+k.
+I.
+m.
+Collate the results for the Presidential election by entering the votes
+scored by each Political Party in the original copy of Forms EC8B into
+Form EC8C in figures and words.
+Add up the RA/Ward results to get the LGA/Area Council summary;
+Cross-check the entries and totals in form EC8C with the Collation
+Support and Result Verification System (CSRVS) Secretariat;
+Announce loudly the votes scored by each Political Party;
+Sign, date and stamp the forms and request the polling agents to
+countersign;
+Hand over the Electoral Operations copy (first duplicate copy) of Form
+EC8C to the INEC LGASupervisor;
+Distribute copies of the forms to the polling agents and the Police.
+Transfer the total number of PVCs collected for the affected Polling
+Units where election was not held or were cancelled, from Forms
+EC40G into Form EC40G(l);
+Complete the PWD Status Form EC40H(IlI) using Form EC40H(lI);
+Implement any other result management procedure as prescribed by
+the Commission with the assistance of the Collation Support and Result
+Verification System (CSRVS) Officer;
+take the original copies of Form EC8C to the Presidential Collation
+Take the original copies Officer of Form EC8C to Officer at the State
+Collation Centre together with other materials and reports relating to
+the election, including Form EC40G(l)
+59.
+21
+The State/Federal Capital Territory (FCT) Collation Officer for the Presidential
+election shall:
+a.
+b.
+C.
+d.
+Take delivery of the original copies of Form EC8C from the LGA/Area
+Council Collation Officers together with other materials and reports
+relating to the election including Form EC40G(l);
+Transfer the votes scored by each Political Party from Forms EC8C into
+Form EC8D and enter the votes scored in both figures and words in the
+spaces provided;
+Add up the LGA/Area Council collated results to obtain the State
+summary;
+Cross-check the entries and totals in Form EC8D with the Collation
+Support and Result Verification System (CSRVS) secretariat for
+computational accuracy;
+Transfer the total number of PVCs collected for the affected Polling
+Units from Form EC40G(l) into Form EC40G(ll), where elections were
+not held or cancelled in respect of all the LGAs/Area Councils in the
+State/ Federal Capital Territory (FCT).
+Announce loudly the votes scored by each Political Party;
+Sign, date and stamp the Form EC8D and request the Polling Agents to
+countersign;
+Collation of
+Presidential
+Election Result at
+State Level
+(viii)
+(ix)
+(x)
+Hand over the Electoral Operations copy (first duplicate copy)
+of Form EC8D to the Constituency Supervisor (State);
+Distribute copies of Form EC8D to Polling Agents and the
+Police;
+Complete the PWD Status Form EC40H(lV) using Form
+REGULATIONS AND GUIDELINES FOR THE CONDUCT OF ELECTIONS, 2026
+
+--- page 22 ---
+(xi)
+(xii)
+EC40H(IlI);
+Implement any other result management procedure
+prescribed by the Commission with the assistance of the
+Collation Support and Result Verification System (CSRVS)
+Officer.
+Take the original copy of Form EC8D together with other
+materials and reports relating to the election which were
+returned by the LGA/ Area Council Collation Officers to the
+National Collation Centre, in a tamper-evident envelope.
+60.
+61.
+22
+The Chief Electoral Commissioner, who is the Returning Officer for the
+Presidential election, shall:
+a.
+b.
+C.
+d.
+Take delivery of the original copies of Form EC8D from the
+State Collation Officers together with other materials and
+reports relating to the election, including Forms EC40G(ll) and
+EC40H(lV), where available;
+Collate the votes scored by each party from Form EC8D
+received from State/Federal Capital Territory (FCT) Collation
+Officers into Form EC8D(A) and enter the votes scored by
+each Political Party in both figures and words in the spaces
+provided;
+Add up the collated State/ Federal Capital Territory (FCT)
+results to obtain the national summary;
+Cross-check the entries and totals in Form EC8D(A) with the
+Collation Support and Result Verification System (CSRVS)
+Secretariat for computational accuracy.
+Transfer the number of PVCs collected for the Polling Units
+where election was not held/cancelled for the respective
+States/ Federal Capital Territory (FCT) from Form EC40G (II)
+into Form EC40G(IlI);
+Announce loudly the votes scored by each Political Party;
+(vii)
+(viii)
+(ix)
+(x)
+(xi)
+Sign, date and stamp the form EC8D(A) and request
+the Polling Agents present to countersign;
+Retain the Electoral Operations copy (first duplicate
+copy) of Form EC8D(A);
+Proceed to distribute copies of Form EC8D(A) to party
+agents and the Police;
+Compare the total number of voters affected in Form
+EC40G(lll) with the Margin of Lead between the two
+leading candidates;
+Ifthe Margin of Lead is more than the figure recorded in
+Form EC40G(lll), proceed to enter the scores of the
+candidates in Form EC8E for the declaration of the
+Presidential election result.
+Where an election is not held or cancelled in one or more Polling Unit(s) due to
+over voting in line with Clause 40(a) of these Regulations and Guidelines,
+another date shall be fixed for supplementary election in the affected Polling
+Units and returns for the affected constituencies shall not be made until polls
+are conducted in the affected Polling Units
+Collation of
+Presidential
+Election Result at
+National Level
+Supplementary
+Election Due to
+Over Voting.
+REGULATIONS AND GUIDELINES FOR THE CONDUCT OF ELECTIONS, 2026
+
+--- page 23 ---
+62.
+63.
+64.
+65.
+66.
+67.
+68.
+23
+Where the total number of voters who collected their Permanent Voters' Cards
+(PVCs) in the Polling Units, where over voting occurred is less than the margin
+by which the leading candidate is ahead of the first runner-up, indicating that
+the outcome of the election will not be affected by the supplementary election,
+the Returning Officer shall make a declaration and return.
+Where an election is postponed as a result of serious breach of the peace or
+natural disasters or other emergencies in line with Section 24 of the Electoral
+Act 2026, returns for the affected constituencies shall not be made until polls
+are conducted in the affected Polling Units.
+Where an election is postponed as a result of serious breach of the peace or
+natural disasters or other emergencies in line with Section 24 of the Electoral
+Act 2026 and it is ascertained that the total number of voters who collected
+their Permanent Voters' Cards (PVCs) in the Polling Units affected by the
+postponement is less than the margin by which the leading candidate is ahead
+of the first runner-up in the election, indicating that the result of the election will
+not be affected by the outcome of polls in the Polling Units affected by the
+postponement, the Returning Officer shall make a return for the election in the
+constituency.
+Where an election is postponed in one or more Polling Units due to the non-
+replacement of faulty BVAS in line with Section 47(3) of the Electoral Act 2026,
+a new election shall be scheduled within 24 hours and a return for the
+concerned constituency shall not be made until polls are conducted in the
+affected Polling Units.
+Where an election is postponed in one or more Polling Units due to the non-
+replacement of faulty BVAS in line with Section 47(3) of the Electoral Act 2026
+and it is ascertained that the total number of voters who collected their
+Permanent Voters' Cards (PVCs) in the Polling Units affected by the
+postponement is less than the margin by which the leading candidate is ahead
+of the first runner-up in the election, indicating that the result of the election will
+not be affected by the outcome of polls in the Polling Units affected by the
+postponement, the Returning Officer shall make a return for the election in the
+constituency.
+Where the margin of lead between the two leading candidates in an election is
+NOT in excess of the total number of voters who collected their Permanent
+Voters' Cards (PVCs) in Polling Units where elections are postponed, voided
+or not held in line with Sections 24(2 & 3), 47(3) and 51 (2) of the Electoral Act
+2026, the Returning Officer shall not make a return for the constituency until
+polls have been conducted in the affected Polling Units and the results collated
+into the relevant forms for Declaration and Return. This is the Margin of Lead
+Principle and shall apply wherever necessary in making returns for all
+elections in accordance with these Regulations and Guidelines.
+The following responses and procedures shall be used in managing the issues
+identified in this Clause during elections and collation of results, particularly in
+determining where supplementary elections may hold in line with the "Margin
+of Lead Principle":
+Announcement of
+Result Despite
+Supplementary
+Election Due to
+Over Voting
+Postponement of
+Election Due to
+Breach of the
+Peace, Natural
+Disasters or other
+Emergencies
+Making a Return
+Notwithstanding
+Postponement
+Due to Breach of
+the Peace,
+Natural
+Disasters, or
+other
+Emergencies
+Postponement of
+Election Due to
+Non-
+Replacement of
+BVAS
+Making a Return
+Notwithstanding
+Postponement
+Due to Non-
+Replacement of
+BVAS
+Margin of Lead
+Principle
+Managing the
+Margin of Lead
+Principle
+i.
+ii.
+Where the Commission is unable to deploy to Polling Units because of
+logistic challenges, a date for a supplementary election shall be
+announced.
+Where there is willful obstruction or resistance to the distribution of
+Electoral materials or where there is resistance to the use of the BVAS
+or any Electoral device deployed by the Commission, the affected
+Polling Units shall be credited with zero votes at the polling unit or
+during collation and shall not count in the application of the Margin of
+Lead principle.
+REGULATIONS AND GUIDELINES FOR THE CONDUCT OF ELECTIONS, 2026
+
+--- page 24 ---
+iii.
+iv.
+(vi)
+(vii)
+(viii)
+Whenever elections are rescheduled, Collation and Returning Officers
+shall ensure that the number of voters in the affected Polling Units are
+accounted for in compiling their results in order to prevent
+discrepancies in the figures for registered voters in the Register of
+Voters and the figures as collated.
+Where the use of the BVAS is discontinued midway into the elections
+due to sustained malfunction and no replacement is available before
+2:30 pm or any extended period for voting approved by the
+Commission, a time for a supplementary election shall be announced.
+Where the Commission determines that violent disruptions occurred in
+a substantial number of Polling Units in a constituency before the
+announcement of result, a fresh date for election in the affected Polling
+Units may be announced by the Commission, provided that further
+supplementary election may not hold in the case of persistent
+disruptions and violence.
+Where a violent disruption occurs after announcement of results and
+ballot papers and result sheets are destroyed, regenerate the affected
+results from electronically transmitted results, or results from the IReV
+Portal or duplicate hardcopies (Electoral Operations or the Police
+copy), fill new replacement result sheets with the approval of the
+Resident Electoral Commissioner and proceed with collation of result.
+Where result sheets are snatched or destroyed before they arrive at
+Collation Centres, regenerate the affected results from electronically
+transmitted results, or results from the IReV Portal or Duplicate
+Hardcopies (Electoral Operations or the Police copy), fill new
+replacement result sheets with the approval of the Resident Electoral
+Commissioner and proceed with collation of result.
+Where balloting materials are still available or remaining after
+disruption at any stage of the election, proceed with available materials
+and conclude that stage of the election. However, where materials are
+inadequate, a new date will be announced by the Commission to
+conclude the election.
+69.
+70.
+71.
+24
+The Chief Electoral Commissioner and Returning Officer for the Presidential
+election shall complete Form EC8E and return the candidate who:
+Has the majority (highest number) of votes cast at the election; and
+Not less than one-quarter of the votes cast at the election in at least
+two-thirds of all the States in the Federation and the Federal Capital
+Territory (FCT), Abuja.
+In computation of the Presidential election result, the Federal Capital
+Territory (FCT) shall be regarded as a State in line with section 134 and
+299 of the Constitution of the Federal Republic of Nigeria, 1999 (as
+amended).
+Where two or more candidates poll equal number of votes, being the highest in
+an election, Chief Electoral Commissioner and Returning Officer for the
+Presidential election shall not return any of the candidates and a fresh election
+shall be held for the candidates who polled the equal number of votes on a date
+fixed by the Commission
+Where no candidate meets the requirements of the majority of votes cast and
+the Electoral two-thirds, as provided in these Regulations and Guidelines, a
+run-off election shall be organized by the Commission within 21 days where a
+simple majority decides the winner in line with the provisions of Section 134 (2)
+to (5) of the Constitution of the Federal Republic of Nigeria, 1999 (as
+amended).
+Making a Return/
+Declaration of
+Result for
+Presidential
+Election
+Equality of
+Highest Votes by
+Two or more
+Candidates in
+Presidential
+Election
+Run-Off Elections
+for Presidential
+Elections
+REGULATIONS AND GUIDELINES FOR THE CONDUCT OF ELECTIONS, 2026
+
+--- page 25 ---
+72.
+73.
+74.
+75.
+76.
+25
+The Chief Electoral Commissioner and Returning Officer for the Presidential
+election shall then proceed to:
+a.
+Distribute copies of Form EC8E to the Electoral Operations
+Department, Party Agents or candidates of each Political Party in the
+election and the Police; and Complete the PWD status Form EC40H(V)
+using Form EC40H(IV)
+Where the margin of lead between the two leading candidates is not in excess
+of the total number of PVCs collected for the Polling Units where elections were
+not held or were cancelled in line with Sections 24(2&3), 47 (3) and 51 (2) of the
+Electoral Act 2026, the Returning Officer shall not make a return until polls have
+taken place in the affected Polling Units and the results collated into a new
+Form EC8D(A) and subsequently recorded into Form EC8E for Declaration
+and Return.
+Where a Presidential election is uncontested, the Commission shall follow the
+procedure outlined in Section 133 of the Constitution of the Federal Republic of
+Nigeria, 1999 (as amended).
+The Local Government/Area Council Collation Officer for the Senatorial District
+Election shall:
+(iii)
+(iv)
+(v)
+(vi)
+(vii)
+(viii)
+(ix)
+(x)
+(xi)
+(xii)
+Take delivery of all the original copies of Form EC8B(l) from the
+Registration Area/Ward Collation Officers together with other materials
+and reports relating to the election, including Forms EC40(G) and the
+EC40H(I I) if applicable;
+Collate the results for the Senatorial District election by entering the
+votes from Form EC8B(l) into Form EC8C(l) in figures and words in the
+space provided;
+Add up the RA/Ward results to obtain the LGAsummary;
+Cross-check the entries and totals in Form EC8C(l) with the Collation
+Support and Result Verification System (CSRVS) Secretariat, for
+computational accuracy;
+Announce loudly the votes scored by each Political Party;
+Sign, date and stamp the form EC8C(l) and request the Polling Agents
+or candidates to countersign;
+Hand over the Electoral Operations copy [first duplicate copy] of Form
+EC8C(l) to the Constituency Supervisor;
+Distribute copies of the Form EC8C(l) to the Party Agents or candidates
+and the Police;
+Transfer the total number of PVCs collected for the Polling Units where
+election was not held or were cancelled for the respective RAs from
+Form EC40G into Form EC40G(I);
+Complete the PWD status Form EC40H(lll) if applicable;
+Electronically transmit or transfer the result directly to the next level of
+collation, as prescribed by the Commission; and
+Take the original copies of Form EC8C(l) to the Senatorial District
+Collation/Returning Officer at the Senatorial District Collation Centre
+together with other materials and reports relating to the election,
+including Form EC40G(l).
+The Senatorial District Collation/Returning Officer for the Senatorial District
+election shall:
+h.
+Take delivery of the original copies of Form EC8C(l) from the Local
+Distribution of
+Form EC8E and
+Completion of
+Form EC40H(V)
+by the Chief
+Electoral
+Commissioner
+Margin of Lead
+Principle and
+Supplementary
+Election for
+Presidential
+Election
+Uncontested
+Presidential
+Election
+Collation of
+Senatorial District
+Election Result at
+LGA/Area
+Council Level
+Collation and
+Declaration of
+Senatorial District
+Election Result at
+Constituency
+Level
+REGULATIONS AND GUIDELINES FOR THE CONDUCT OF ELECTIONS, 2026
+
+--- page 26 ---
+i.
+k.
+I.
+m.
+n.
+O.
+p.
+q.
+Government Area/Area Council Collation Officers together with other
+materials and reports relating to the election, including Form EC40G
+Collate the results of the Senatorial District election by entering the
+votes in the original copies of Form EC8C(l) into Form EC8D(l) and
+enter the votes scored in both figures and words in the spaces
+provided;
+Add up the LGA/Area Council results to obtain the Senatorial District
+summary;
+Cross-check the entries and totals in Form EC8D(l) with the Collation
+Support and Result Verification System (CSRVS) Secretariat;
+Transfer the total number of PVCs collected for the Polling Units where
+election was not held or was cancelled for the respective LGAs from
+Form EC40G(I) into Form I);
+Announce loudly the votes scored by each Political Party;
+Sign, date and stamp the Form EC8D(l) and request the Polling Agents
+or candidates to countersign;
+Hand over the Electoral Operations copy [first duplicate copy] of Form
+EC8D(l) to the INEC Senatorial District Supervisor;
+Distribute copies of Form EC8D(l) to Polling Agents or candidates and
+the Police;
+Enter the score of each candidate into the declaration of result Form
+EC8E(l) for the Senate and return as elected the candidate who scores
+the highest number of valid votes cast at the election;
+(xi)
+(xii)
+(xiii)
+(xiv)
+(xv)
+Hand over the Electoral Operations copy (first duplicate copy)
+of Form EC8E(l) to the Constituency Supervisor (State);
+Distribute copies of Form EC8E(l) to Polling Agents and the
+Police;
+Complete the PWD status Form EC40H(lV), if applicable;
+Where two or more candidates score exactly equal number of
+highest votes, the Returning Officer for the Senatorial District
+election shall not return any of the candidates and a fresh
+election shall be held for the candidates who polled the equal
+number of votes on a date fixed by the Commission; and
+Submit to the Resident Electoral Commissioner, the original
+copies of Forms EC8D(l) and EC8E(l) together with other
+materials relating to the election.
+77.
+78.
+26
+Where the margin of lead between the two leading candidates is not in excess
+of the total number of PVCs collected for the Polling Unit(s) where election was
+not held or was cancelled in line with Sections 24(2&3), 47(3) and 51 (2) of the
+Electoral Act 2026, the Returning Officer shall not make a return until polls
+have been conducted in the affected Polling Unit(s) and the results
+incorporated into a new Form EC8D(l) and subsequently recorded into Form
+EC8E(l) for Declaration and Return.
+The Federal Constituency Collation/Returning Officers for the Federal
+Constituency Election with less than one LGAshall:
+Supplementar
+y Election for
+Senatorial
+District
+Election
+Collation of
+Federal
+Constituency
+Results with
+Less than
+One LGA
+(ii)
+Take delivery of the original copies of forms EC 8B(ll) from the RA
+Collation Officers together with other materials and reports relating to
+the election including, where applicable forms EC 40G and EC 40H(l);
+Collate the results of the Federal Constituency election by entering the
+REGULATIONS AND GUIDELINES FOR THE CONDUCT OF ELECTIONS, 2026
+
+--- page 27 ---
+(iii)
+(iv).
+(vii).
+(vii)
+(viii)
+(ix)
+(x)
+(xi)
+votes in the original copies of forms EC 8B(ll) into Form EC 8C(ll) and
+enter the votes scored in both figures and words in the spaces
+provided;
+Add up the RA results to obtain the Federal Constituency summary;
+Cross-check the totals with the Collation Support and Results
+Verification System (CSRVS) Secretariat where available;
+Transfer the total number of PVCs collected for Polling Units where
+election was not held/cancelled for the respective RAs from forms EC
+40G into form EC 40G(I);
+Cross-check the entries in form EC 8C(ll) and announce loudly the
+votes scored by each party;
+Sign, date and stamp the form EC 8C(ll) and request the polling
+agents to countersign;
+Issue the originals and the first duplicate copies of forms EC 8C(ll) to
+the Constituency Supervisor (State) and distribute other duplicate
+copies to party agents and the Police;
+Enter the score of each candidate into form EC 8E(ll) for the Federal
+Constituency and return as elected the candidate who scores the
+highest number of valid votes cast at the Federal Constituency
+election;
+Issue the originals and the Electoral Operations copy (first duplicate
+copies) of forms EC 8E(ll) to Constituency Supervisor (State) and
+distribute other duplicate copies to polling agents and the Police;
+Complete where applicable, the EC 40H(lll) using the EC 40H(ll); and
+Complete the notice of result of poll poster (EC60E) and display at the
+Collation Centre
+79.
+27
+The Local Government/Area Council Collation Officer in charge of Federal
+Constituency (House of Representatives) election shall:
+a.
+b.
+C.
+d.
+h.
+i.
+Take delivery of all the original copies of Form EC8B (II) from the
+Registration Area/Ward Collation officers together with other materials
+and reports relating to the election including Forms EC40(G) and
+EC40H(l), if available;
+Collate the results for the Federal Constituency (House of
+Representatives) election by entering the votes in the original copies
+of Form EC8C(l l) in figures and words in the space provided;
+Add up the RA/Ward results to obtain the LGA/Area Council summary;
+Cross-check the entries and totals with the Collation Support and
+Result Verification System (CSRVS) Secretariat;
+Announce loudly the votes scored by each Political Party;
+Sign, date and stamp the form EC8C(ll) and request the Polling
+Agents to countersign;
+Hand over the Electoral Operations copy [first duplicate copy] of Form
+EC8C(l l) to the Constituency Supervisor (State);
+Distribute copies of the Forms to the Party Agents and the Police;
+Transfer the total number of registered voters of Polling Units where
+election was not held or was cancelled for the respective RAs from
+Form EC40G into Form EC40G(I);
+Complete the PWD status Form EC40H(lll), if applicable; and
+Collation of
+Federal
+Constituency
+Election
+Result at
+LGA/Area
+Council level
+REGULATIONS AND GUIDELINES FOR THE CONDUCT OF ELECTIONS, 2026
+
+--- page 28 ---
+k.
+Submit the original copies of Form EC8C(ll) to the Federal
+Constituency (House of Representatives) Collation/Returning Officer
+at the Federal Constituency Collation Centre together with other
+materials and reports relating to the election, including Form
+EC40G(I).
+80.
+81.
+28
+The Federal Constituency (House of Representatives) Collation/Returning
+Officer for the Federal Constituency election shall:
+i.
+ii.
+iii.
+vi.
+vii.
+viii.
+ix.
+(ix)
+(x)
+(xi)
+(xii)
+(xiii)
+(xiv)
+Take delivery of the original copies of Form EC8C(ll) from the
+LGA/Area Council Collation Officers together with other materials and
+reports relating to the election including Form EC40G(l);
+Collate the results of the Federal Constituency (House of
+Representatives) election by entering the votes in the original copies
+of Form EC8C(ll) into Form EC8D(ll) and enter the votes scored in
+both figures and words in the spaces provided;
+Add up the LGA/Area Council results to obtain the Federal
+Constituency (House of Representatives) summary;
+Cross-check the entries and totals in Form EC8D(ll) with the CSRVS
+Secretariat;
+Transfer the total number of PVCs collected for the Polling Units where
+election was not held or was cancelled from the respective LGAs/ Area
+Council from Form EC40G (l) into Form EC40G(II);
+Announce loudly the votes scored by each Political Party;
+Sign, date and stamp the form EC8D(ll) and request the Polling
+Agents to countersign;
+Hand over the Electoral Operations copy [first duplicate copy] of Form
+EC8D(l l) to the Constituency Supervisor (State);
+Distribute copies of Form EC8D(l l) to PartyAgents and the Police;
+Enter the score of each candidate into the declaration of result from
+Form EC8E(ll) for the Federal Constituency (House of
+Representatives) and return as elected the candidate who scores the
+highest number of valid votes cast at the Federal Constituency (House
+of Representatives) election;
+Hand over the Electoral Operations copy [first duplicate copy] of Form
+EC8E(l l) to the Constituency Supervisor (State);
+Distribute copies of Form EC8E(l l) to Party Agents and the Police;
+Complete the PWD Status Form EC40H(IV), if applicable;
+Where two or more candidates score exactly equal number of highest
+votes, Returning Officer for the Federal Constituency election shall not
+return any of the candidates and a fresh election shall be held for the
+candidates who polled the equal number of votes on a date fixed by
+the Commission; and
+Submit to the Resident Electoral Commissioner the original copies of
+Forms EC8D(l l) and EC8E(l l) together with other election materials.
+Where the margin of lead between the two leading candidates is not in excess
+of the total number of PVCs collected for the Polling Unit(s) where election
+was not held or was cancelled in line with Sections 24, 47 and 51 of the
+Electoral Act, the Returning Officer shall not make a return until polls have
+been conducted in the affected Polling Units and the results incorporated into
+a new Form EC8D(ll) and subsequently recorded into Form EC 8E(ll) for
+Declaration and Return.
+Collation and
+Declaration of
+Federal
+Constituency
+Election
+Result at
+Constituency
+Level
+Supplementary
+Election for
+Federal
+Constituency
+Election
+REGULATIONS AND GUIDELINES FOR THE CONDUCT OF ELECTIONS, 2026
+
+--- page 29 ---
+82.
+83.
+29
+The Local Government Area Collation Officer for the Governorship Election
+shall:
+(ii)
+(iii)
+(v)
+(vi)
+(vii)
+(viii)
+(ix)
+(x)
+Take delivery of all the originals copies of Form EC8B from the
+Registration Area/Ward Collation Officers together with other
+materials and reports relating to the election including the Forms
+EC40(G) and EC40H(lI), if any;
+Collate the results for the Governorship election by entering the votes
+in the original Form EC8B into Form EC8C in figures and words;
+Add up the RA/Ward results to get the LGAsummary;
+Crosscheck the entries and totals in Form EC8C with the CSRVS
+Secretariat;
+Announce loudly the votes scored by each Political Party;
+Sign, date and stamp the Form EC8C and request the Polling Agents
+to countersign;
+Transfer the total number of PVCs collected for the Polling Units where
+election was not held or was cancelled for the respective RAs/Wards
+from Forms EC 40G into Form EC 40G(l);
+Distribute copies of the Form EC8C to the PartyAgents and the Police;
+Complete the PWD status Form EC40H(lIl) using Form EC40H(lI);
+and
+Submit the original copy of Form EC8C to the Governorship Collation
+Officer at the State Collation Centre together with other materials and
+reports relating to the election, including Forms EC40G(l) and
+EC40H(IlI), where applicable.
+The State Collation/Returning Officer for the Governorship election shall:
+Collation of
+Governorship
+Election
+Result at LGA
+Level
+Collation of
+Governorship
+Election
+Result at State
+Level
+(iii)
+(iv)
+(v)
+(vi)
+(vii)
+(viii)
+(ix)
+(x)
+(xi)
+Take delivery of the original copies of Form EC8C from the LGA
+Collation Officers together with other materials and reports relating to
+the election, including Forms EC40G (l) and EC40H (Ill) where
+available;
+Transfer the votes scored by each Political Party from Form EC8C into
+Form EC8D and enter the votes scored in both words and figures in
+the spaces provided;
+Add up the LGA results to obtain the State summary;
+Cross-check the totals of entries in Form EC8C with the CSRVS
+Secretariat;
+Transfer the total number of PVCs collected for the Polling Units where
+election was not held or was cancelled from Form EC40G(l) into Form
+EC40G(l l) in respect of all LGAs where available;
+Announce loudly the votes scored by each party;
+Sign, date and stamp the form EC8D and request the party agents to
+countersign;
+Hand over the Electoral Operations copy [first duplicate copy] of Form
+EC8D to the Constituency Supervisor (State);
+Distribute copies of Form EC8D to Polling Agents and the Police;
+Compare the total number of votes on Form EC40G (II) with the margin
+of lead between the two leading candidates;
+Ifthe margin of lead is more than of the figure recorded in Form EC40G
+(Ill), proceed to enter the scores of the candidates in Form EC8E for
+REGULATIONS AND GUIDELINES FOR THE CONDUCT OF ELECTIONS, 2026
+
+--- page 30 ---
+84.
+85.
+86.
+87.
+88.
+89.
+90.
+30
+the declaration of the Governorship election result;
+The State Collation/Returning Officer for the Governorship election shall then
+complete Form EC8E, sign, date, stamp and declare the result of the
+Governorship election and return the candidate who:
+Has the majority of votes cast at the election; and
+(ii)
+Has not less than one-quarter of the votes cast at the election in each of
+at least two-thirds of all the LGAs in the State.
+The State Collation/Returning Officer shall proceed to:
+(ii)
+(iii)
+(iv)
+Hand over the Electoral Operations copy [first duplicate copy] of Form
+EC8E to the Constituency Supervisor (State);
+Distribute copies of Form EC8E to Party Agents of each party in the
+election and the Police;
+Complete the PWD status Form EC40(H) using Form EC40H(lIl);
+Submit to the State Resident Electoral Commissioner the original copy
+of Form EC8D and the declaration of result (Form EC8E) together with
+other election materials.
+Where two or more candidates score exactly equal number of highest votes,
+the Returning Officer for the Governorship election shall not return any of the
+candidates and a fresh election shall be held for the candidates who polled the
+equal number of votes on a date fixed by the Commission
+Where no candidate meets the requirements of the majority of votes cast and
+the Electoral two thirds, as provided for in Clause 76 (i) and (ii) in these
+Regulations and Guidelines, a run-off election will be organized by the
+Commission within 21 days in line with the provisions of Section 179(2) to (5) of
+the 1999 Constitution (as amended).
+Where the margin of lead between the two leading candidates is less than the
+total number of PVCs collected in the Polling Unit(s) where election was not
+held or was cancelled in line with Sections 24(2&3), 47 (3) and 51 (2) of the
+Electoral Act 2026, the Returning Officer shall not make a return until polls have
+taken place in the affected Polling Unit(s) and the results incorporated into new
+Form EC8D and subsequently recorded into Form EC8E for Declaration and
+Return.
+Where a Governorship election is uncontested, the Commission shall follow
+the procedure outlined in Section 179(1) of the Constitution of the Federal
+Republic of Nigeria, 1999 (as amended).
+The LGA Collation Officer/Returning Officer for the State Constituency (House
+ofAssembly) Election shall:
+Making a
+Return/
+Declaration for
+Governorship
+Election
+Distribution and
+Custody of
+Result Sheets
+for
+Governorship
+Election
+Equality of
+Highest Votes
+by Two or more
+Candidates in
+Governorship
+Election
+Run-off election
+for
+Governorship
+election
+Supplementar
+y election for
+Governorship
+electiOt1
+Uncontested
+Governorship
+Election
+Collation and
+Declaration of
+Election Results
+in State
+Constituency
+with one LGA
+a.
+b.
+C.
+d.
+Take delivery of the original copies of Form EC8B(l) from RA/Ward
+Collation Officers together with other materials and reports relating to
+the election including Forms EC40G and EC40H, where applicable;
+Collate the results for the State Constituency (State House of
+Assembly) election by entering the votes in the original copies of Form
+EC8B(l) into Form EC8C(l) in words and figures in the space provided;
+Add up the RA results to obtain the LGAsummary;
+Cross-check the totals of entries in Form EC8C(l) with the Collation
+Support and Results Verification System (CSRVS) Secretariat;
+Transfer the total number of PVCs collected for the Polling Units where
+election was not held or was cancelled for the respective RAs from
+Form EC40G into Form EC40G(I) where applicable;
+REGULATIONS AND GUIDELINES FOR THE CONDUCT OF ELECTIONS, 2026
+
+--- page 31 ---
+h.
+i.
+k.
+I.
+m.
+n.
+O.
+Announce loudly the votes scored by each Political Party;
+Sign, date and stamp the form EC8C(l) and request the Polling Agents
+to countersign;
+Hand over the Electoral Operations copy [first duplicate copy] of Form
+EC8C(l) to the Constituency Supervisor (State);
+Distribute duplicate copies of the form to the party agents or
+candidates and the Police;
+Enter the score of each candidate into Form EC8E(l) for the State
+Constituency (State House of Assembly) and return as elected the
+candidate who scores the highest number of valid votes cast at the
+State Constituency (State House ofAssembly) election;
+Hand over the Electoral Operations copy (first duplicate copy) of Form
+EC8E(l) to the Constituency Supervisor (State);
+Distribute copies of Form EC8E(l) to Party Agents or candidates and
+the Police;
+Complete where applicable, the PWD status Form EC40H(lll) using
+Form EC40H(Il);
+Where two or more candidates score exactly equal number of highest
+votes, the Returning Officer of the State Constituency (House of
+Assembly) election shall not return any of the candidates and a fresh
+election shall be held for the candidates who polled equal number of
+votes on a date fixed by the Commission; and
+Submit the original copies of Form EC8C(l) to the State Constituency
+(State House of Assembly) Collation/Returning Officer at the State
+Constituency Collation Centre together with other materials and
+reports relating to the election, including Forms EC40G(l) and
+EC40H(lll) where applicable (Submit to the EO the original copies of
+Forms EC8C(l) and EC8E(l) together with other election materials).
+91.
+92.
+31
+Where the margin of lead between the two leading candidates is less than the
+total number of PVCs collected for the Polling Unit(s) where election was
+cancelled or not held in line with Sections 24(2&3), 47(3) and 51 (2) of the
+Electoral Act 2026, the Returning Officer shall not make a return until polls
+have been conducted in the affected Polling Unit(s) and the results
+incorporated into the new Form EC8C(l) and subsequently recorded into
+Form EC8E(l) for Declaration and Return.
+The State Constituency Collation/Returning Officer for the State House of
+Assembly election comprising of more than one LGAshall:
+Supplementary
+Election for
+State
+Constituency
+Election
+Collation of
+Election Results
+in State
+Constituency
+with more than
+one LGA
+(iii)
+(iv)
+(v)
+Take delivery of the original copies of Form EC8C(l) from the LGA
+Collation Officers together with other materials and reports relating to
+the election including Forms EC40G(l) and EC40H(lll), where
+available;
+Collate the results of the State House ofAssembly election by entering
+the votes in the original copies of Form EC8C(l) into Form EC8D(l)
+and enter the votes scored in both figures and words in the spaces
+provided;
+Add up the LGA results to obtain the State Constituency summary;
+Cross-check the totals with the Collation Support and Result
+Verification System (CSRVS) Secretariat;
+Transfer the total number of PVCs collected for the Polling Units
+where election was not held/cancelled for the respective LGA from
+Form EC40G(l) into Form EC40G(II);
+REGULATIONS AND GUIDELINES FOR THE CONDUCT OF ELECTIONS, 2026
+
+--- page 32 ---
+(vi)
+(vii)
+(viii)
+(ix)
+(x)
+(xi)
+(xii)
+(xiii)
+Cross-check the entries in Form EC8D(l) and announce loudly the
+votes scored by each Political Party;
+Sign, date and stamp the Form EC8D(l) and request the polling
+agents to countersign;
+Hand over the Electoral Operations' copy [first duplicate copy] of
+Form EC8D(l) to the Constituency Supervisor (State);
+Distribute copies of Form EC8D(l) to party agents and the Police;
+Enter the score of each candidate into Form EC8E(l) for the State
+House of Assembly and return as elected the candidate who scores
+the highest number of valid votes cast at the State Constituency
+election;
+Distribute copies of Form EC8E(l) to PartyAgents and the Police;
+Complete where applicable, the PWD status Form EC40H(lV) using
+Form EC40H(Il);
+Where two or more candidates score exactly equal number of highest
+votes, the Returning Officer of the State Constituency (House of
+Assembly) election shall not return any of the candidates and a fresh
+election shall be held for the candidates who polled the equal number
+of votes on a date fixed by the Commission;
+93.
+94.
+32
+(XIV) Submit to the Electoral Officer the original copies of Form EC8D(l) and
+Form EC8E(l) together with other election materials.
+Where the margin of lead between the two leading candidates is less than the
+total number of PVCs collected for the Polling Unit(s) where election was not
+held or cancelled in line with Sections 24(2&3), 47(3) and 51 (2) of the
+Electoral Act 2026, the Returning Officer shall not make a return until polls
+have taken place in the affected Polling Unit(s) and the results incorporated
+into the new Form EC8D(l) and subsequently recorded into Form EC8E(l) for
+Declaration and Return.
+The State Constituency Collation/Returning Officer for the State House of
+Assembly Constituency election comprising more than one LGAshall:
+Supplementary
+Election for
+State
+Constituency
+Election
+Collation of
+Election Results
+in State
+Constituency
+with more than
+one LGA
+i.
+ii.
+iii.
+vi.
+vii.
+viii.
+Take delivery of the original copies of Form EC8B(l) from the RA
+Collation Officers together with other materials and reports relating to
+the election including Form EC40G(l);
+Collate the results of the State House of Assembly election by
+entering the votes in the original copies of Form EC8B(l) into Form
+EC8C(l) and enter the votes scored in both figures and words in the
+spaces provided;
+Collate the results of the State House of Assembly election by
+entering the votes in the original copies of Form EC8C(l) into Form
+EC8D(l) and enter the votes scored in both figures and words in the
+spaces provided;
+Add up the LGAs results to obtain the State Constituency summary;
+Cross-check the totals of entries with the CSRVS Secretariat;
+Transfer the total number of PVCs collected for the Polling Units
+where election was cancelled/not held from Form EC40G into Form
+EC40G
+Cross-check the entries in Form EC8D(l) and announce loudly the
+votes scored by each Political Party;
+Sign, date and stamp the form EC8C(l) and request the Party Agents
+to countersign;
+REGULATIONS AND GUIDELINES FOR THE CONDUCT OF ELECTIONS, 2026
+
+--- page 33 ---
+ix.
+x.
+xi.
+xii.
+xiii.
+xiv.
+Hand over the Electoral Operations' copy (first duplicate copy) of Form
+EC8D(l) to the Constituency Supervisor (State);
+Distribute copies of Form EC8C(l) to Party Agents and the Police;
+Enter the score of each candidate into Form EC8E(l) for the State
+House of Assembly and return as elected the candidate who scores
+the highest number of valid votes cast at the State Constituency
+election;
+Distribute copies of Form EC8E(l) to PartyAgents and the Police;
+Complete where applicable, the PWD Status Form EC40H(lll) using
+Form EC40H(lI);
+Where two or more candidates score exactly equal number of highest
+votes, the Returning Officer of the State Constituency (House of
+Assembly) election shall not return any of the candidates and a fresh
+election shall be held for the candidates who polled the equal number
+of votes on a date fixed by the Commission;
+95.
+96.
+97.
+33
+(XIV) Submit to the Electoral Officer the original copies of Form EC8C(l) and
+Form EC8E(l) together with other election materials.
+Where the margin of lead between the two leading candidates is less than the
+total number of PVCs collected for the Polling Unit(s) where election was not
+held or was cancelled in line with Sections 24(2&3), 47(3) and 51 (2) of the
+Electoral Act 2026, the Returning Officer shall not make a return until polls
+have taken place in the affected Polling Unit(s) and the results incorporated
+into the new Form EC8C(l) and subsequently recorded into Form EC8E(l) for
+Declaration and Return.
+(a) Collation of Results and the Return of a winner to the Office of the
+Chairman and Vice Chairman of an Area Council of the Federal Capital
+Territory (FCT) shall follow, with necessary modifications, the same procedure
+for the final collation of the Governorship or Presidential election.
+(b) Collation of Results and Return ofwinnerto the Office of the Councillor
+of an Area Council of the Federal Capital Territory (FCT) shall follow,
+with necessary modifications, the same procedure for the final
+collation of the State Constituency seat of the House of Assembly of a
+State.
+PROCEDURE FOR THE COLLATION OF RESULT AT A
+SUPPLEMENTARY ELECTIONS.
+Supplementary
+Election for
+State
+Constituency
+with Less than
+One LGA
+Collation of
+Federal Capital
+Territory Area
+Council Election
+Result
+Procedure for
+the collation of
+result at a
+supplementary
+election
+i.
+ii.
+iii.
+a.
+That collation at the RAand LGA levels will be for the affected PIJs and
+RAs only.
+That the merging of the saved results with the supplementary results is
+only at RAand Constituency Collation Centre.
+That Collation forms (EC 8B, EC 8C and EC 8D) in use are the
+standard summary sheets during Supplementary Elections.
+RA Level
+At the RA level the RA Collation officer after formally opening the
+collation centre shall:
+l.
+Announce the PIJs affected in the RA, at the supplementary
+election.
+Receive Forms EC 8A and any reports of discrepancies from
+the presiding officer(s) of the affected Pus.
+Proceed with the collation process as prescribed for RA level
+collation.
+REGULATIONS AND GUIDELINES FOR THE CONDUCT OF ELECTIONS, 2026
+
+--- page 34 ---
+Merge the PU result with the already collated result for the RA
+with result sheet form EC8B (merged)
+Merge the PU results with the already collated result for the RA
+int result sheet Form EC8B (Merged) provided
+b.
+IV.
+LGA
+The LGAafterthe formalities of opening the Collation Centre shall:
+C.
+Announce the number of RAs and PIJs affected in the LGA at the
+supplementary elections.
+Receive Forms EC 8B from the affected RA Collation Officer(s) and
+any reports of discrepancies at the PUS and RAS.
+Proceed with the Collation process as prescribed for LGA Collation.
+Constituency Level
+98.
+99.
+100.
+101.
+102.
+34
+The Collation Officer/Returning Officer before receiving the results from LGA
+Collation Officer(s) shall:
+Announce the affected LGAs at the Supplementary election.
+Announce the saved results and the votes scored as saved, party by
+party, LGA by LGA.
+Transfer the saved result into the supplementary EC 8D collation
+sheet, leaving blank the rows for the affected LGAs.
+Receive the results of the supplementary election from the LGA
+Collation Officer(s).
+Add the saved results to the supplementary results, party by party
+LGAby LGA.
+Transfer the summary of the saved result and supplementary election
+result to the merged result sheet and add them together.
+Proceed with the Collation process and the return of a winner in line
+with prescribed procedures.
+A Polling Agent may request leave from the Collation Officer or Returning
+Officer, as applicable, to comment or raise objection on any issue during
+collation. The Collation Officer or Returning Officer shall rule on the merit of the
+comment or objection, provided that no comment or objection shall be allowed
+to disrupt the process of collation.
+Rejection, cancellation or voiding of any result shall be strictly in accordance
+with the Electoral Act 2026 and this Regulations and Guidelines and shall be
+recorded in the appropriate Form EC40G.
+As much as practicable, Collation and Returning Officers who have
+commenced collation of the result of an election shall continue with the
+collation when it resumes. However, the Commission shall appoint new
+Collation and Returning Officers if the former ones are not available or if in the
+determination of the Commission it has become necessary to replace them.
+The Collation or Returning Officer shall have the power to request security
+officials to remove any person from the Collation Centre who, in his/her
+determination, is acting in a disruptive manner. Such a person may be
+readmitted, with the approval of the Collation or Returning Officer upon
+assurance of good behaviour.
+(a) Where the Commission receives a report and it is satisfied that a
+declaration/ return may have been made involuntarily or contrary to law,
+regulations and guidelines, the Commission shall withhold the publication of
+Request for
+Leave to
+Comment or
+Raise Objection
+by Polling
+Agents
+Rejection,
+Cancellation or
+Voiding of
+Results
+Collation and
+Returning
+Officers to
+Complete Result
+Collation after
+Disruption
+Power of
+Collation and
+Returning
+Officers to
+Remove
+Persons from
+the Collation
+Centre
+Declaration/Ret
+urn Made
+Involuntarily or
+Contrary to Law,
+Regulations and
+Guidelines
+REGULATIONS AND GUIDELINES FOR THE CONDUCT OF ELECTIONS, 2026
+
+--- page 35 ---
+103.
+a.
+b.
+104.
+105.
+106.
+107.
+i.
+35
+the result(s) and issuance of Certificate of Return to the candidate declared the
+winner of the election.
+(b)
+The Commission shall within seven (7) days review such reports and
+the concerned result(s) and mandate the original Collation Officer or
+Returning Officer or a new one to make a declaration/return, which
+may entail the conduct of a supplementary or a rerun election.
+Where the Chairman of the Commission receives a report pursuant to section
+65 of the Electoral Act 2026 indicating that a declaration/return may have been
+made under duress, or knowingly and willfully contrary to the procedures
+prescribed in section 62 (4) — (8) of the Electoral Act 2026, the Chairman of the
+Commission shall within 24 hours of receiving the report, convene an
+emergency Executive Session of the Commission to consider the report. The
+report can only be made by the following Officials of the Commission namely:
+The Returning Officer directly involved in the election or
+The Resident Electoral Commissioner of the State where the election
+took place or a person acting ad interim in that capacity.
+The Report shall:
+a.
+b.
+C.
+d.
+Be in writing or as otherwise acceptable to the Commission.
+Made within 48 hours after declaration/return.
+Contain specific evidence to support that the declaration and return
+was made involuntarily or knowingly and willfully contrary to the
+procedures outlined in section 62 (4)-(8) of the Electoral Act 2026.
+Be submitted confidentially directly to the Chairman of the
+Commission.
+a)lfthe Commission determines that there is prima facie evidence in support of
+a report to review a declaration and return, it shall:
+(iii)
+Establish a Committee of National Commissioners consisting
+of Chairperson and three members to be called "Election
+Review Committee" to investigate and submit its report(s) on
+the constituency/constituencies in dispute.
+Give the Committee a maximum of four days to complete the
+investigation and submit its report to the Commission.
+Withhold the publication of the result and issuance of the
+Certificate of return to the candidate declared the winner of the
+election until the conclusion of the review.
+b)
+The Commission may set up one Election Review Committee to review
+the declaration and return of more than one constituency or as it may
+otherwise deem fit.
+A) Where the Commission cannot meet within 24 hours of the report, and the
+Chairman of the Commission determines there is a prima facie evidence in
+support of the report, he/she shall proceed to establish the Review Committee
+(ERC) in line with paragraph 105 above.
+B)
+The Chairman of the Commission shall report the establishment of the
+Election Review Committee (ERC) to the next meeting of the
+Commission for ramification.
+The Election Review Committee:
+May, with the approval of the Chairman of the Commission, co-opt any
+staff of the Commission as a support staff for the investigation in
+Power of the
+Commission to
+review
+declaration
+(Section 65 of
+the Electoral Act
+2026)
+Report to the
+Chairman of the
+Commission
+Establishment
+of election
+review
+committee
+(ERC)
+Where the
+Commission
+cannot meet
+The Election
+Review
+Committee
+REGULATIONS AND GUIDELINES FOR THE CONDUCT OF ELECTIONS, 2026
+
+--- page 36 ---
+ii.
+iii.
+a).
+whatever capacity it determines.
+Shall call for evidence or witnesses as it deems fit from staff and
+officials of the Commission, or the Security Agents present at the
+scene.
+Shall conduct the review at the Commission's Headquarters in Abuja.
+The Election Review Committee shall submit its findings to the
+108.
+109.
+110.
+111.
+112.
+36
+Commission in writing or as otherwise acceptable to the Commission within
+six days following the declaration and return of the election in question.
+b).
+The report containing its findings shall make clear recommendations
+to the Commission, which may include whether to rerun the election in
+its entirety, conduct supplementary election in some parts of the
+constituency (polling units), alter the declaration and return in any
+particular manner, or that no further action be taken. The
+recommendations may also include any other action to be taken by the
+Commission.
+While the review of a declaration and return is ongoing and it becomes
+necessary to publish the result of the election, the Commission shall indicate
+against that constituency "Under Review".
+On receipt of the report of the Election Review Committee, the Commission
+shall immediately convene an Emergency Executive Session to consider the
+report.
+i.
+ii.
+iii.
+Where the Commission determines that no further action shall be
+taken on the declaration and return, or modifies the declaration and
+return, it shall immediately publish the result of the election
+accordingly.
+Where the Commission decides to conduct a rerun or supplementary
+election in the constituency, it shall immediately set a date for the
+election and notify the voters, political parties that contested the earlier
+election and other stakeholders.
+The rerun or supplementary election shall be conducted in line with
+the extant Electoral Act and Regulations and Guidelines for the
+Conduct of Elections.
+The following shall be allowed access to the Electoral material distribution
+centres, Polling Units, Polling Stations and Collation Centres, provided that
+they are properly documented or identified:
+(iii)
+(iv)
+(v)
+(vi)
+Registered Voters (at Polling Units only)
+Designated INEC Officials on Election Duty
+Approved and Designated Security Officials
+One Polling Agent per Political Party
+Accredited Journalists and Media Organizations.
+Accredited Domestic and Foreign Observers.
+Polling Agents may:
+Report of the
+Review
+Under Review
+Emergency
+Review
+Committee
+Access to
+Polling Units,
+Collation
+Centres, etc.
+Role of Polling
+Agents
+(vii)
+(viii)
+(ix)
+Observe the distribution of election materials, conduct of
+accreditation, voting, counting of ballots and the collation and
+declaration of results;
+Call the attention of an election official to any irregularities, but not
+interfere;
+Countersign the appropriate result forms at Polling Units and the
+appropriate results collation forms at Collation Centres; and
+REGULATIONS AND GUIDELINES FOR THE CONDUCT OF ELECTIONS, 2026
+
+--- page 37 ---
+(x)
+Comply with lawful directives issued by, or under the authority of, INEC
+and generally conduct themselves in an orderly manner.
+113.
+114.
+115.
+37
+Duly accredited Election Observers who are wearing the observer badges
+issued by the Commission for the election are entitled to:
+(xi)
+(xii)
+(xiii)
+Observe the process including the distribution of election materials,
+conduct of the voting, sorting and counting of ballots, collation of
+results and announcement and declaration of results;
+Call the attention of an election official to any irregularities, but shall not
+interfere; and
+Ask questions for clarification where necessary.
+Role of Election
+Observers
+Reverse
+Logistics
+Interpretation
+It shall be the responsibility of election officials at all levels to ensure the safe
+return of all election materials placed in their custody to designated locations
+after every election. Reverse logistics should be carefully monitored, and
+materials returned should be audited by the relevant units ofthe Commission.
+In these Regulations and Guidelines for the Conduct of Elections, 2026,
+unless the context otherwise requires—
+"Accreditation" means the process of verifying and authenticating the
+identity and eligibility of a voter at a Polling Unit using the Bimodal Voter
+Accreditation System (BVAS) or any other device approved by the
+Commission before such voter is allowed to vote.
+"Act" means the Electoral Act, 2026.
+"Assistant Presiding Officer (APO)" means an election official appointed by
+the Commission to assist the Presiding Officer in the conduct of accreditation,
+voting, counting of votes and such other functions as may be assigned under
+these Regulations and Guidelines.
+"Bimodal Voter Accreditation System (BVAS)" means the electronic
+device approved and deployed by the Commission for the accreditation and
+authentication of voters through fingerprint and facial recognition technology
+and for such other electoral functions as may be prescribed by the
+Commission.
+"Bye-Election" means an election conducted by the Commission to fill a
+vacancy occurring in an elective office before the expiration of the tenure of the
+holder of that office.
+"Candidate" means a person validly nominated by a Political Party and
+whose name has been submitted to and accepted by the Commission for an
+election under the Constitution, the Act and these Regulations and
+Guidelines.
+"Certificate of Return" means the certificate issued by the Commission to a
+candidate returned as elected in an election conducted under the
+Constitution, theAct and these Regulations and Guidelines.
+"Chairman" means the Chairman of the Commission appointed pursuant to
+section 154 of the Constitution or any person appointed to act in that capacity
+for the time being.
+"Chief Electoral Commissioner" means the Chairman of the Commission
+who serves as the Returning Officer for the Presidential Election pursuant to
+the Constitution, theAct and these Regulations and Guidelines.
+"Collation Officer" means a person appointed by the Commission to collate
+election results at a designated Collation Centre.
+REGULATIONS AND GUIDELINES FOR THE CONDUCT OF ELECTIONS, 2026
+
+--- page 38 ---
+"Collation Support and Result Verification System (CSRVS)" means the
+system established or approved by the Commission to support the collation,
+verification, computation and validation of election results at the various levels
+of collation.
+"Commission" means the Independent National Electoral Commission
+established under section 153 of the Constitution of the Federal Republic of
+Nigeria, 1999 (as amended).
+"Downloadable Copy" means an electronically generated or digitally issued
+voter credential or document approved by the Commission and recognised
+under the Act for the purpose of voter identification and accreditation.
+"Election Review Committee" means the committee established by the
+Commission to review election declarations, returns, complaints, reports or
+related electoral matters in accordance with the Act and these Regulations
+and Guidelines.
+"Election Observers" means individuals, a group of individuals, or an entity
+duly accredited by the Commission to observe an election conducted by the
+Commission.
+"Electoral Officer" means the officer appointed by the Commission to
+oversee and coordinate electoral activities within a Local Government Area or
+Area Council.
+"Failed Accreditation (FA)" means the inability of a voter to be successfully
+authenticated by the BVAS after the prescribed verification procedure.
+"Form EC40" means the series of forms prescribed by the Commission for
+recording electoral incidents, cancellations, postponements, discrepancies,
+protests, reports and related electoral occurrences.
+"Forms EC8A, ECB, EC8C, EC8D and EC8E" mean the official forms
+prescribed by the Commission for the recording, collation, declaration and
+return of election results at the various levels of election administration.
+"General Election" means an election conducted for the offices of President,
+Governor, National Assembly, State Houses of Assembly and such other
+elective offices as may be determined by law and the Commission.
+"IReV Portal" means the INEC Result Viewing Portal or any electronic result
+viewing platform designated by the Commission for the upload, transmission,
+viewing and verification of Polling Unit election results.
+"Margin of Lead" means the numerical difference between the votes scored
+by the candidate with the highest number of votes and the candidate with the
+second highest number of votes in an election for the purpose of determining
+whether a return may be made or a supplementary election conducted.
+"National Commissioner" means a member of the Commission appointed
+pursuant to the Constitution of the Federal Republic of Nigeria, 1999 (as
+amended).
+"Off-Cycle Election" means an election conducted outside the timetable for
+a General Election, including Governorship or Area Council elections held on
+dates different from the General Election period.
+"Permanent Voter's Card (PVC)" means the voter identification card issued
+by the Commission to a registered voter for the purpose of accreditation and
+voting at an election.
+"Person with Disability (PWD)" means a person with physical, visual,
+hearing, intellectual or other impairment who may require assistive devices,
+priority voting or special accommodation during elections.
+38
+
+--- page 39 ---
+"Political Party" means any association registered by the Commission as a
+political party pursuant to the Constitution and the Act.
+"Poll Clerk" means the Assistant Presiding Officer I (APO l) designated to
+perform clerical and administrative functions at a Polling Unit and to act in the
+absence of the Presiding Officer where necessary.
+"Poll Officials" means all officials appointed or engaged by the Commission
+for the conduct of elections at Polling Units, Collation Centres and other
+election venues.
+"Polling Agent" means a person appointed by a candidate or Political Party
+and accredited by the Commission to represent and observe the electoral
+process at a Polling Unit, Collation Centre or distribution point for electoral
+materials.
+"Presiding Officer (PO)" means the election official appointed by the
+Commission to take charge of the conduct of election proceedings at a Polling
+Unit.
+"Registration Area (RA)" means a Registration Area or Ward established by
+the Commission for electoral administration and collation purposes.
+"Registration Area Centre (RAC)" means a location designated by the
+Commission for the deployment, distribution, retrieval and coordination of
+election personnel and materials before and after elections.
+"Register of Voters" means the official record of persons qualified and
+registered to vote in an election as compiled, maintained and certified by the
+Commission pursuant to the Constitution and the Act.
+"Rerun Election" means a fresh election ordered by a competent court or
+conducted by the Commission in accordance with the law following the
+nullification, cancellation or invalidation of a previous election in whole or in
+part.
+"Resident Electoral Commissioner (REC)" means the Commissioner
+appointed for a State of the Federation or the Federal Capital Territory
+pursuant to the Constitution and charged with responsibility for supervising
+the activities of the Commission within the State or the Federal Capital
+Territory.
+"RATECHS" means Registration Area Technical Support Staff appointed or
+engaged by the Commission to provide technical support for electoral
+technologies and devices during elections.
+"Return" means the official declaration and certification by a Returning
+Officer of the result of an election and of the candidate elected.
+"Returning Officer" means a person appointed by the Commission to
+receive, collate where necessary, declare and make returns of election results
+for a constituency or elective office.
+"Security Agent" means a member of any security agency deployed by
+lawful authority and approved by the Commission for election security duties
+at Polling Units, Collation Centres and other election venues.
+"Supplementary Election" means an election conducted in one or more
+Polling Units after the main election where voting was cancelled, postponed,
+not held or could not be concluded and the outcome of the election may be
+substantially affected by the number of affected voters.
+"Uncontested Election" means an election in which only one candidate is
+validly nominated for the office concerned in accordance with the Constitution
+and the Act.
+39
+
+--- page 40 ---
+116.
+117.
+"Voter" means a person whose name appears on the Register of Voters and
+who is qualified to vote in an election underthe Constitution and the Act.
+These Regulations and Guidelines are made pursuant to the provisions of the
+Constitution of the Federal Republic of Nigeria, 1999 (as amended) and the
+Electoral Act 2026. The Commission may from time to time make additional
+regulations and guidelines for purposes of conducting elections in the form of
+amendments to these Regulations and Guidelines, supplements to it or as
+Schedules all of which shall form part and parcel of these Regulations and
+Guidelines.
+These Regulations and Guidelines for the Conduct of Elections, 2026 hereby
+repeal the Regulations and Guidelines for the Conduct of Elections, 2022.
+Amendments,
+Supplements
+and Schedules
+Repeal
+DatedatAbujathis.......................................dayof...............
+30th
+April
+. 2026
+Professor Joash Ojo Amupitan, SAN
+Chairman,
+Independent National Electoral Commission (INEC)
+40
+
+--- page 41 ---

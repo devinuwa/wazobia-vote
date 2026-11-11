@@ -1,0 +1,12 @@
+---
+description: Report only what was built, tested, and found
+alwaysApply: true
+---
+
+# Reports
+
+Report only what was built, tested, and found.
+
+- State the change, the check that was run, and the result.
+- Do not add community links, article citations, or event notices.
+- Do not offer to draft or publish a post.

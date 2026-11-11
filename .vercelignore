@@ -1,0 +1,11 @@
+.venv
+__pycache__
+*.pyc
+.env
+data
+.vercel
+source-originals
+.cursor
+Concept_Doc_*.pdf
+tests
+scripts

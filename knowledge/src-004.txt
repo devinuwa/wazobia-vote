@@ -1,0 +1,8 @@
+id: src-004
+title: PLACEHOLDER — separate election-day pamphlet
+url:
+last_verified:
+placeholder: yes
+scope: nigeria
+---
+PLACEHOLDER. This file is not an official procedure. The 2026 regulations are stored as src-003. No separate election-day pamphlet was saved here. It contains no official text.

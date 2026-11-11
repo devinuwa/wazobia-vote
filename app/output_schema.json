@@ -1,0 +1,33 @@
+{
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["outcome", "language", "language_confidence",
+    "spoken_answer", "display_answer", "steps", "citations",
+    "confidence", "needs_human_review", "reason_for_review"],
+  "properties": {
+    "outcome": {"enum": ["A", "B", "C", "D"]},
+    "language": {"type": "string"},
+    "language_confidence": {"enum": ["high", "medium", "low"]},
+    "spoken_answer": {"type": "string", "minLength": 1},
+    "display_answer": {"type": "string", "minLength": 1},
+    "steps": {"type": "array", "items": {
+      "type": "object", "additionalProperties": false,
+      "required": ["text", "icon"],
+      "properties": {"text": {"type": "string"},
+                     "icon": {"type": "string"}}}},
+    "citations": {"type": "array", "items": {
+      "type": "object", "additionalProperties": false,
+      "required": ["id", "title", "url", "last_verified"],
+      "properties": {"id": {"type": "string"},
+                     "title": {"type": "string"},
+                     "url": {"type": "string"},
+                     "last_verified": {"type": "string"}}}},
+    "confidence": {"enum": ["high", "medium", "low"]},
+    "needs_human_review": {"type": "boolean"},
+    "reason_for_review": {"type": "string"}
+  },
+  "allOf": [
+    {"if": {"properties": {"outcome": {"const": "D"}}},
+     "then": {"properties": {"needs_human_review": {"const": true}}}}
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "topics": [
+    {
+      "id": "registration",
+      "sections": [9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
+      "triggers": {
+        "en": ["register", "registration", "registered"],
+        "ha": [],
+        "ig": []
+      }
+    },
+    {
+      "id": "who-may-register",
+      "sections": [12],
+      "triggers": {
+        "en": ["who may register", "eligible", "eligibility", "age", "qualify", "qualification"],
+        "ha": [],
+        "ig": []
+      }
+    },
+    {
+      "id": "voters-card",
+      "sections": [16, 17, 18, 19, 21, 22],
+      "triggers": {
+        "en": ["pvc", "voter card", "voters card", "voter's card", "voters' card", "permanent voter"],
+        "ha": [],
+        "ig": []
+      }
+    },
+    {
+      "id": "election-day",
+      "sections": [47],
+      "triggers": {
+        "en": ["election day", "accreditation", "polling day"],
+        "ha": [],
+        "ig": []
+      }
+    },
+    {
+      "id": "disability",
+      "sections": [54],
+      "triggers": {
+        "en": ["disability", "disabilities", "disabled", "visual impairment", "braille", "incapacitated"],
+        "ha": [],
+        "ig": []
+      }
+    }
+  ],
+  "nigeria_required": {
+    "en": ["polling unit", "deadline", "eligible", "eligibility", "right to vote", "legal right", "procedure"],
+    "ha": [],
+    "ig": []
+  },
+  "technology": {
+    "en": ["biometric", "technology", "software", "cyber", "digital"],
+    "ha": [],
+    "ig": []
+  }
+}

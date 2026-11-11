@@ -1,0 +1,167 @@
+{
+  "entries": [
+    {
+      "id": "who-may-register",
+      "questions": {
+        "en": [
+          "Who may register to vote?",
+          "Who is eligible to register to vote?"
+        ],
+        "ha": [],
+        "ig": []
+      },
+      "source_ids": ["src-001-s12"],
+      "approved_by": "",
+      "approved_on": "",
+      "reply": {
+        "outcome": "A",
+        "language": "en",
+        "language_confidence": "high",
+        "spoken_answer": "A person shall be qualified to be registered as a voter if such a person is a citizen of Nigeria and has attained the age of eighteen years.",
+        "display_answer": "A person shall be qualified to be registered as a voter if such a person is a citizen of Nigeria and has attained the age of 18 years.",
+        "steps": [],
+        "citations": [
+          {
+            "id": "src-001-s12",
+            "title": "Electoral Act, 2026, PART III, section 12",
+            "url": "https://nass.gov.ng/documents/download/11248",
+            "last_verified": ""
+          }
+        ],
+        "confidence": "high",
+        "needs_human_review": false,
+        "reason_for_review": ""
+      }
+    },
+    {
+      "id": "lost-voters-card",
+      "questions": {
+        "en": [
+          "What if my voter's card is lost?",
+          "What happens if my PVC is lost?"
+        ],
+        "ha": [],
+        "ig": []
+      },
+      "source_ids": ["src-001-s18"],
+      "approved_by": "",
+      "approved_on": "",
+      "reply": {
+        "outcome": "A",
+        "language": "en",
+        "language_confidence": "high",
+        "spoken_answer": "Whenever a voter's card is lost, destroyed, defaced, torn or otherwise damaged, the owner of such card shall, not less than ninety days before polling day, apply in person.",
+        "display_answer": "Whenever a voter's card is lost, destroyed, defaced, torn or otherwise damaged, the owner of such card shall, not less than 90 days before polling day, apply in person.",
+        "steps": [],
+        "citations": [
+          {
+            "id": "src-001-s18",
+            "title": "Electoral Act, 2026, PART III, section 18",
+            "url": "https://nass.gov.ng/documents/download/11248",
+            "last_verified": ""
+          }
+        ],
+        "confidence": "high",
+        "needs_human_review": false,
+        "reason_for_review": ""
+      }
+    },
+    {
+      "id": "pvc-issuance",
+      "questions": {
+        "en": [
+          "How do I collect my PVC?"
+        ],
+        "ha": [],
+        "ig": []
+      },
+      "source_ids": ["src-001-s16"],
+      "approved_by": "",
+      "approved_on": "",
+      "reply": {
+        "outcome": "A",
+        "language": "en",
+        "language_confidence": "high",
+        "spoken_answer": "The Commission shall design, cause to be printed and control the issuance of voters' cards to voters whose names appear in the register. This does not say where to collect a card.",
+        "display_answer": "The Commission shall design, cause to be printed and control the issuance of voters' cards to voters whose names appear in the register. This does not say where to collect a card.",
+        "steps": [],
+        "citations": [
+          {
+            "id": "src-001-s16",
+            "title": "Electoral Act, 2026, PART III, section 16",
+            "url": "https://nass.gov.ng/documents/download/11248",
+            "last_verified": ""
+          }
+        ],
+        "confidence": "high",
+        "needs_human_review": false,
+        "reason_for_review": ""
+      }
+    },
+    {
+      "id": "election-day",
+      "questions": {
+        "en": [
+          "What happens on election day?"
+        ],
+        "ha": [],
+        "ig": []
+      },
+      "source_ids": ["src-001-s47"],
+      "approved_by": "",
+      "approved_on": "",
+      "reply": {
+        "outcome": "A",
+        "language": "en",
+        "language_confidence": "high",
+        "spoken_answer": "Any person intending to vote in an election shall present himself to a Presiding Officer for accreditation at the polling unit in the constituency in which his name is registered, and shall provide permanent voters card (PVC). To vote, the Presiding Officer shall use a Bimodal Voter Accreditation System or any other technological device that may be prescribed by the Commission, for the accreditation of voters.",
+        "display_answer": "Any person intending to vote in an election shall present himself to a Presiding Officer for accreditation at the polling unit in the constituency in which his name is registered, and shall provide permanent voters card (PVC). To vote, the Presiding Officer shall use a Bimodal Voter Accreditation System or any other technological device that may be prescribed by the Commission, for the accreditation of voters.",
+        "steps": [],
+        "citations": [
+          {
+            "id": "src-001-s47",
+            "title": "Electoral Act, 2026, section 47",
+            "url": "https://nass.gov.ng/documents/download/11248",
+            "last_verified": ""
+          }
+        ],
+        "confidence": "high",
+        "needs_human_review": false,
+        "reason_for_review": ""
+      }
+    },
+    {
+      "id": "disability-help",
+      "questions": {
+        "en": [
+          "What help can a voter with a disability ask for?",
+          "Will there be braille ballots at my polling unit?"
+        ],
+        "ha": [],
+        "ig": []
+      },
+      "source_ids": ["src-001-s54"],
+      "approved_by": "",
+      "approved_on": "",
+      "reply": {
+        "outcome": "A",
+        "language": "en",
+        "language_confidence": "high",
+        "spoken_answer": "A voter with visual impairment or other form of disability who is otherwise unable to distinguish symbol or who suffers from any other physical disability may be accompanied into the polling unit by a person chosen by him or her and that person shall, after informing the Presiding Officer of the disability, be permitted to accompany the voter into the voting compartment and assist the voter to make his or her mark in accordance with the procedure prescribed by the Commission. The Commission shall take reasonable steps to ensure that persons with disabilities, special needs and vulnerable persons are assisted at the polling place by the provision of suitable means of communication, such as Braille, large embossed print, electronic devices, sign language interpretation, or off-site voting in appropriate cases. This does not say that a Braille ballot will be at a polling unit.",
+        "display_answer": "A voter with visual impairment or other form of disability who is otherwise unable to distinguish symbol or who suffers from any other physical disability may be accompanied into the polling unit by a person chosen by him or her and that person shall, after informing the Presiding Officer of the disability, be permitted to accompany the voter into the voting compartment and assist the voter to make his or her mark in accordance with the procedure prescribed by the Commission. The Commission shall take reasonable steps to ensure that persons with disabilities, special needs and vulnerable persons are assisted at the polling place by the provision of suitable means of communication, such as Braille, large embossed print, electronic devices, sign language interpretation, or off-site voting in appropriate cases. This does not say that a Braille ballot will be at a polling unit.",
+        "steps": [],
+        "citations": [
+          {
+            "id": "src-001-s54",
+            "title": "Electoral Act, 2026, section 54",
+            "url": "https://nass.gov.ng/documents/download/11248",
+            "last_verified": ""
+          }
+        ],
+        "confidence": "high",
+        "needs_human_review": false,
+        "reason_for_review": ""
+      }
+    }
+  ]
+}
